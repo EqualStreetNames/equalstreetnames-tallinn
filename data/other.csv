@@ -1,29 +1,36 @@
 name,source,gender,wikidata,type
+"Äigrumäe tee",wikidata,,Q2192129,relation+way
+"Juhan Kunderi põik",wikidata,,Q12365487,relation
+"Kalevipoja põik",wikidata,,Q3812585,relation
 Kannustiiva,wikidata,,Q922808,way
+"Katariina käik",wikidata,,Q3860574,relation
 Kedriku,wikidata,,Q857997,way
 Kirilase,wikidata,,Q865624,way
 Kuldtiiva,wikidata,,Q258719,way
 Lumiku,wikidata,,Q1064168,way
 Merikanni,wikidata,,Q21036,way
 Öölase,wikidata,,Q459180,way
+"Päevakoera tänav",wikidata,,Q776603,relation
+"Piksepeni tänav",wikidata,,Q2934200,relation
 Rapla,wikidata,,Q215971,way
 Sirptiiva,wikidata,,Q5306943,way
 Sügislase,wikidata,,Q6521398,way
 Suru,wikidata,,Q157683,way
 Taevastiiva,wikidata,,Q1084480,way
 Täpiku,wikidata,,Q286622,way
+"Udeselja tänav",wikidata,,Q7706097,relation
 Uneliblika,wikidata,,Q1544777,way
 Vaksiku,wikidata,,Q45559,way
-"1. liin",,,,way
+"1. liin",,,,relation
 "3. liin",,,,way
-"4. liin",,,,way
+"4. liin",,,,relation
 "5. liin",,,,way
 "A. H. Tammsaare",,,,relation
-"A. H. Tammsaare tee",,,,relation+way
 Aarde,,,,way
 Ääre,,,,way
-Aasa,,,,way
+"Aasa tänav",,,,relation
 Ääsi,,,,way
+"Ääsi tänav",,,,relation
 Aaslina,,,,way
 Aate,,,,way
 Abaja,,,,way
@@ -32,108 +39,99 @@ Abara,,,,way
 Admiralisild,,,,way
 Adra,,,,way
 Aedvere,,,,way
-Aedvilja,,,,way
+"Aedvilja tänav",,,,relation
 "Aegna pst",,,,way
-Ahingu,,,,way
+"Ahingu tänav",,,,relation
 Ahju,,,,way
 Ahtri,,,,way
-Ahvena,,,,way
-Aia,,,,way
+"Ahtri tänav",,,,relation
+"Ahvena tänav",,,,relation
+"Aia tänav",,,,relation
 "Aia tee",,,,way
-Aiandi,,,,way
-"Aianduse tee",,,,way
+"Aiandi tänav",,,,relation
+"Aianduse tee",,,,relation
 Aida,,,,way
-"Äigrumäe tee",,,,way
-"Akadeemia tee",,,,way
+"Akadeemia tee",,,,relation+way
 "Akadeemikute allee",,,,way
 Äkke,,,,way
-Alajaama,,,,way
-Alasi,,,,way
+"Alajaama tänav",,,,relation
+"Alasi tänav",,,,relation
 Alemaa,,,,way
 Alevi,,,,way
-Algi,,,,way
-"Algi põik",,,,way
+"Algi põik",,,,relation
+"Algi tänav",,,,relation
 All-linn,,,,relation
-Allika,,,,way
+"Allika tänav",,,,relation
 "Alliksaare tee",,,,way
 Alliksoo,,,,way
 "Alliksoo põik",,,,way
-Allveelaeva,,,,way
+"Allveelaeva tänav",,,,relation
 Alvari,,,,way
-"Amandus Adamsoni",,,,way
 Amburi,,,,way
 "Andrekse tee",,,,way
-Angerja,,,,way
+"Angerja tänav",,,,relation
 Angerpisti,,,,way
-Ankru,,,,way
-Anni,,,,way
-"Ants Laikmaa",,,,way
-"Ants Lauteri",,,,way
+"Ankru tänav",,,,relation
+"Anni tänav",,,,relation
 Ao,,,,way
 "Apollo plats",,,,way
 Apteegi,,,,way
-Arbu,,,,way
+"Arbu tänav",,,,relation
 Armatuuri,,,,way
 "Arnika tee",,,,way
-Artelli,,,,way
-"Artur Kapi",,,,way
+"Artelli tänav",,,,relation
 Aru,,,,way
 "Arukaskede pst",,,,way
+"Asfaldi tänav",,,,relation
 Astangu,,,,way
 "Astangu Laskemoonalaod",,,,way
+"Astangu tänav",,,,relation
 "Astla tee",,,,way
 Astri,,,,way
 Asula,,,,way
 "Asula põik",,,,way
-Asunduse,,,,way
-"August Kitzbergi",,,,way
-"August Weizenbergi",,,,way
+"Asunduse tänav",,,,relation
 Auli,,,,way
 Auna,,,,way
-Auru,,,,way
+"Auru tänav",,,,relation
 "Balti jaama tunnel",,,,way
 "Bastioni käigud",,,,way
 Beetapromenaad,,,,way
 Bensiini,,,,way
-Betooni,,,,way
-"Börsi käik",,,,way
-"Bremeni käik",,,,way
+"Betooni tänav",,,,relation
+"Börsi käik",,,,relation
+"Bremeni käik",,,,relation
 "Business Lounge",,,,way
-"Carl Robert Jakobsoni",,,,way
-Dunkri,,,,way
+"Dunkri tänav",,,,relation
 Edela,,,,way
 Edu,,,,way
 "Eduard Viiralti",,,,way
-"Eduard Vilde tee",,,,way
-"Eerikneeme tee",,,,way
+"Eerikneeme tee",,,,relation
 Eevardi,,,,way
 Eha,,,,way
-"Ehitajate tee",,,,way
+"Ehitajate tee",,,,relation+way
 Ehte,,,,way
 Elektri,,,,way
-Elektroni,,,,way
+"Elektroni tänav",,,,relation
 Endla,,,,way
+"Endla tänav",,,,relation
 Energia,,,,way
-Erika,,,,way
-"Ernst Särgava allee",,,,way
-Esku,,,,way
-"Estonia pst",,,,way
-"Falgi tee",,,,way
-"Ferdinand Johann Wiedemanni",,,,way
+"Erika tänav",,,,relation
+"Esku tänav",,,,relation
+"Estonia puiestee",,,,relation
 Filmi,,,,way
-"Filtri tee",,,,way
-Forelli,,,,way
-"Friedrich Kuhlbarsi",,,,way
-"Friedrich Reinhold Kreutzwaldi",,,,way
-"Friedrich Robert Faehlmanni",,,,way
-Gaasi,,,,way
+"Filtri tee",,,,relation
+"Forelli tänav",,,,relation
+"Gaasi tänav",,,,relation
 Gildi,,,,way
+"Gildi tänav",,,,relation
 Gonsiori,,,,way
 Graniidi,,,,way
 Gümnaasiumi,,,,way
 Haabersti,,,,way
 "Haabersti ring",,,,way
 Haava,,,,way
+"Haava tänav",,,,relation
 "Haaviku põik",,,,way
 "Haaviku tee",,,,way
 Hagudi,,,,way
@@ -141,7 +139,7 @@ Haigru,,,,way
 Häilu,,,,way
 Haki,,,,way
 Haldja,,,,way
-"Haljas tee",,,,way
+"Haljas tee",,,,relation
 Halla,,,,way
 Hälli,,,,way
 "Hälli põik",,,,way
@@ -150,187 +148,180 @@ Halsi,,,,way
 Halu,,,,way
 "Hämar tee",,,,way
 Hämariku,,,,way
-Hane,,,,way
+"Hane tänav",,,,relation
 Hange,,,,way
 Hanijala,,,,way
-Hansu,,,,way
+"Hansu tänav",,,,relation
 Hao,,,,way
 Haraka,,,,way
 Hargi,,,,way
 Härgmäe,,,,way
 Hariduse,,,,way
 Härjapea,,,,way
-Harju,,,,way
+"Harju tänav",,,,relation
 Harksaba,,,,way
-Harku,,,,way
-"Harkumetsa tee",,,,way
+"Harku tänav",,,,relation
+"Harkumetsa tee",,,,relation
 Härmatise,,,,way
 Harusambla,,,,way
 Hauka,,,,way
-Havi,,,,way
-Heina,,,,way
+"Havi tänav",,,,relation
+"Heina tänav",,,,relation
 Heinamaa,,,,way
 Heinavälja,,,,way
-"Heki tee",,,,way
+"Heki tee",,,,relation
 Helbe,,,,way
-Helme,,,,way
+"Helme tänav",,,,relation
 "Helmiku põik",,,,way
-"Helmiku tee",,,,way
+"Helmiku tee",,,,relation
 Herilase,,,,way
-Herne,,,,way
+"Herne tänav",,,,relation
 Hiidtamme,,,,way
 Hiie,,,,way
 "Hiie põik",,,,way
 "Hiiela tee",,,,way
 Hiiepuu,,,,way
-Hiiu,,,,way
-Hiiu-Maleva,,,,way
-Hiiu-Suurtüki,,,,way
-Hipodroomi,,,,way
+"Hiiu tänav",,,,relation
+"Hiiu-Maleva tänav",,,,relation
+"Hiiu-Suurtüki tänav",,,,relation
+"Hipodroomi tänav",,,,relation
 Hirve,,,,way
 "Hirve põik",,,,way
 Hõbeda,,,,way
-"Hõbekuuse tee",,,,way
+"Hõbekuuse tee",,,,relation
 Hõberebase,,,,way
 Hobujaama,,,,way
+"Hobujaama tänav",,,,relation
 Hoburaua,,,,way
 Hobusepea,,,,way
 Hõimu,,,,way
-Hommiku,,,,way
+"Hommiku tänav",,,,relation
 Hoo,,,,way
-"Hooldekodu tee",,,,way
+"Hooldekodu tee",,,,relation
 Hospidali,,,,way
-Humala,,,,way
+"Humala tänav",,,,relation
 Hundipea,,,,way
-"Hunditubaka tee",,,,way
-Hüübi,,,,way
-"Ida tee",,,,way
+"Hunditubaka tee",,,,relation
+"Hüübi tänav",,,,relation
+"Ida tee",,,,relation
 Idakaare,,,,way
 "Idakaare põik",,,,way
-Iirise,,,,way
+"Iirise tänav",,,,relation
 Ilmarise,,,,way
 "Ilmarise terviserada",,,,way
 Ilo,,,,way
 Ilvese,,,,way
 Ilvesesild,,,,way
-Imanta,,,,way
+"Imanta tänav",,,,relation
 Inseneri,,,,way
 Invaliidi,,,,way
 Irusilla,,,,way
-Iva,,,,way
+"Iva tänav",,,,relation
 "Jäägri tee",,,,way
 Jaagu,,,,way
-Jaama,,,,way
-"Jaan Koorti",,,,way
-"Jaan Poska",,,,way
+"Jaama tänav",,,,relation
 Jaaniku,,,,way
 "Jaanilille põik",,,,way
 "Jaanilille tee",,,,way
 "Jääraku põik",,,,way
-"Jääraku tee",,,,way
+"Jääraku tee",,,,relation
 "Jahe tee",,,,way
 "Jahimehe põik",,,,way
 "Jahimehe tee",,,,way
 Jahu,,,,way
-"Jakob Mändmetsa",,,,way
-"Jakob Pärna",,,,way
 Jakobi,,,,way
 Jalaka,,,,way
 Jalami,,,,way
 Jalgpalli,,,,way
 Järve,,,,way
+"Järve tänav",,,,relation
 "Järve terviserada",,,,way
 "Järvekalda tee",,,,way
-"Järveotsa tee",,,,way
-"Järvevana tee",,,,way
+"Järveotsa tee",,,,relation+way
+"Järvevana tee",,,,relation+way
 "Jasmiini tee",,,,way
 Joa,,,,way
-Jõe,,,,way
+"Jõe tänav",,,,relation
 Jõekalda,,,,way
 "Jõeküla tee",,,,way
 Jõemäe,,,,way
 Jõeoti,,,,way
 Jõesaare,,,,way
-"Johann Köleri",,,,way
-"Johann Voldemar Jannseni",,,,way
-"Johannes Kappeli",,,,way
 Jõhvika,,,,way
 Joone,,,,way
-"Jugapuu põik",,,,way
+"Jugapuu põik",,,,relation
 "Jugapuu tee",,,,way
-"Juhan Kunderi",,,,way
-"Juhan Kunderi põik",,,,way
-"Juhan Smuuli sild",,,,way
-"Juhan Smuuli tee",,,,way
-"Juhan Sütiste tee",,,,way
 Juhkentali,,,,way
-Juhtme,,,,way
-"Jumika tee",,,,way
-"Jüri Vilmsi",,,,way
+"Juhkentali tänav",,,,relation
+"Juhtme tänav",,,,relation
+"Jumika tee",,,,relation
 "Jürilille tee",,,,way
 Jussikalda,,,,way
 "Juuliuse plats",,,,way
 Juurdeveo,,,,way
-Kaabli,,,,way
+"Juurdeveo tänav",,,,relation
+"Kaabli tänav",,,,relation
 Käänu,,,,way
-Kaare,,,,way
+"Kaare tänav",,,,relation
 Kaarla,,,,way
-Kaarlepere,,,,way
-"Kaarli pst",,,,way
-Kaarna,,,,way
-Kaaruti,,,,way
+"Kaarlepere tänav",,,,relation
+"Kaarli puiestee",,,,relation
+"Kaarna tänav",,,,relation
+"Kaaruti tänav",,,,relation
 Kaasiku,,,,way
-Käba,,,,way
+"Kaasiku tänav",,,,relation
+"Käba tänav",,,,relation
 Käbi,,,,way
 Kabli,,,,way
-Käbliku,,,,way
+"Käbliku tänav",,,,relation
 "Kadaka pst",,,,way
-"Kadaka tee",,,,way
+"Kadaka puiestee",,,,relation
+"Kadaka tee",,,,relation+way
 "Kadri tee",,,,way
 Kaera,,,,way
-Kaeravälja,,,,way
+"Kaeravälja tänav",,,,relation
 Kaevu,,,,way
 Kaevuri,,,,way
-Kagu,,,,way
+"Kagu tänav",,,,relation
 "Kaheküla tee",,,,way
 Kahlu,,,,way
-Kahu,,,,way
-Kahva,,,,way
-Kai,,,,way
-Käia,,,,way
+"Kahu tänav",,,,relation
+"Kahva tänav",,,,relation
+"Kai tänav",,,,relation
+"Käia tänav",,,,relation
 "Kailu tee",,,,way
 Kaisla,,,,way
 Kaitse,,,,way
 Kaja,,,,way
-Kajaka,,,,way
-"Kakumäe tee",,,,way
+"Kajaka tänav",,,,relation
+"Kakumäe tee",,,,relation
 Kaladi,,,,way
-"Kalamehe tee",,,,way
-Kalaranna,,,,way
-Kalasadama,,,,way
+"Kalamehe tee",,,,relation
+"Kalaranna tänav",,,,relation
+"Kalasadama tänav",,,,relation
 "Kalavälja tee",,,,way
 Kalda,,,,way
 Kaldapealse,,,,way
 Kalevala,,,,way
 Kalevi,,,,way
 Kalevipoja,,,,way
-"Kalevipoja põik",,,,way
 Kaljase,,,,way
 Kalju,,,,way
 Kallaste,,,,way
 "Kalmistu tee",,,,way
-"Kalmuse tee",,,,way
-Kaluri,,,,way
-Kammelja,,,,way
+"Kalmuse tee",,,,relation
+"Kaluri tänav",,,,relation
+"Kammelja tänav",,,,relation
 Kampri,,,,way
-"Kanali tee",,,,way
+"Kanali tee",,,,relation+way
 Kanarbiku,,,,way
 Kandle,,,,way
-Kanepi,,,,way
-Kangru,,,,way
-Kannikese,,,,way
-Kännu,,,,way
+"Kanepi tänav",,,,relation
+"Kangru tänav",,,,relation
+"Kannikese tänav",,,,relation
+"Kännu tänav",,,,relation
 Kantsi,,,,way
+"Kantsi tänav",,,,relation
 Kanuti,,,,way
 Käo,,,,way
 "Käokannu tee",,,,way
@@ -339,27 +330,28 @@ Käo,,,,way
 Käokõrva,,,,way
 Käolina,,,,way
 Käopoja,,,,way
-Kärbi,,,,way
-Kärestiku,,,,way
-Kari,,,,way
+"Karamelli tänav",,,,relation
+"Kärbi tänav",,,,relation
+"Kärestiku tänav",,,,relation
+"Kari tänav",,,,relation
 "Karjääri tee",,,,way
-Karjamaa,,,,way
+"Karjamaa tänav",,,,relation
 "Karjametsa tee",,,,way
 Karjatse,,,,way
 Karjavälja,,,,way
 Kärje,,,,way
-"Karl August Hermanni",,,,way
 "Karnapi tee",,,,way
 Kärneri,,,,way
 Karsti,,,,way
-Karu,,,,way
+"Karsti tänav",,,,relation
 Käru,,,,way
+"Karu tänav",,,,relation
 "Karukella tee",,,,way
-Karusambla,,,,way
+"Karusambla tänav",,,,relation
 Karuse,,,,way
 Karuslase,,,,way
 Karusmarja,,,,way
-Kase,,,,way
+"Kase tänav",,,,relation
 "Kaskede pst",,,,way
 Kassi,,,,way
 "Kassikäpa tee",,,,way
@@ -369,349 +361,374 @@ Kasteheina,,,,way
 "Kastevarre tee",,,,way
 "Kastiku tee",,,,way
 Kasvu,,,,way
-"Katariina käik",,,,way
 Kätki,,,,way
 Katleri,,,,way
 "Katleri Dirt Park",,,,way
-Katusepapi,,,,way
+"Katusepapi tänav",,,,relation
 Kauba,,,,way
+"Kaubamaja tänav",,,,relation
 Kauge,,,,way
-Kauka,,,,way
+"Kauka tänav",,,,relation
 Kauna,,,,way
-Kaunis,,,,way
-Kaupmehe,,,,way
+"Kaunis tänav",,,,relation
+"Kaupmehe tänav",,,,relation
 Kauri,,,,way
-Keava,,,,way
+"Keava tänav",,,,relation
 Keemia,,,,way
-"Keeru tee",,,,way
-Keevise,,,,way
-Keldrimäe,,,,way
-"Kelluka tee",,,,way
-Kentmanni,,,,way
+"Keemia tänav",,,,relation
+"Keeru tee",,,,relation
+"Keevise tänav",,,,relation
+"Keldrimäe tänav",,,,relation
+"Kelluka tee",,,,relation
 "Kentmanni põik",,,,way
 Kesk-Ameerika,,,,way
-Kesk-Kalamaja,,,,way
+"Kesk-Kalamaja tänav",,,,relation
 Kesk-Luha,,,,way
 Kesk-Sõjamäe,,,,way
 Keskküla,,,,way
+"Keskküla tänav",,,,relation
 "Keskpäeva tee",,,,way
-Kesktee,,,,way
+Kesktee,,,,relation
 Keskuse,,,,way
-Kessi,,,,way
+"Keskuse tänav",,,,relation
+"Kessi tänav",,,,relation
 Ketraja,,,,way
 Ketta,,,,way
 Kevade,,,,way
 Kibuvitsa,,,,way
-Kihnu,,,,way
+"Kihnu tänav",,,,relation
 Kiige,,,,way
 Kiikri,,,,way
 Kiili,,,,way
-Kiini,,,,way
+"Kiili tänav",,,,relation
+"Kiini tänav",,,,relation
 Kiire,,,,way
 Kiisa,,,,way
 Kiive,,,,way
+"Kiive tänav",,,,relation
 "Kikkapuu tee",,,,way
-Kilbi,,,,way
-Kilde,,,,way
+"Kilbi tänav",,,,relation
+"Kilde tänav",,,,relation
 Killustiku,,,,way
-Kilu,,,,way
+"Kilu tänav",,,,relation
 Kinga,,,,way
 Kirde,,,,way
 Kiriku,,,,way
-"Kiriku plats",,,,way
+"Kiriku plats",,,,relation+way
 "Kiriku põik",,,,way
-Kirsi,,,,way
-"Kitsarööpa tee",,,,way
+"Kirsi tänav",,,,relation
+"Kitsarööpa tee",,,,relation
 Kitsas,,,,way
-Kitseküla,,,,way
+"Kitseküla tänav",,,,relation
 Kiuru,,,,way
 Kivi,,,,way
-"Kiviaia tee",,,,way
-Kivila,,,,way
+"Kiviaia tee",,,,relation
+"Kivila tänav",,,,relation
 Kivimäe,,,,way
+"Kivimäe tänav",,,,relation
 Kivimurru,,,,way
+"Kivimurru tänav",,,,relation
 Kivinuka,,,,way
 Kivipere,,,,way
 "Kiviranna tee",,,,way
 Kiviriku,,,,way
-Kivisilla,,,,way
-Klaasi,,,,way
-"Kloostri tee",,,,way
-"Kloostrimetsa tee",,,,way
+"Kivisilla tänav",,,,relation
+"Klaasi tänav",,,,relation
+"Kloostri tee",,,,relation
+"Kloostrimetsa tee",,,,relation
 "Kõdra tee",,,,way
 Kodu,,,,way
 Koge,,,,way
-Kohila,,,,way
-Kohtu,,,,way
-Koidiku,,,,way
-Koidu,,,,way
+"Kohila tänav",,,,relation
+"Kohtu tänav",,,,relation
+"Koidiku tänav",,,,relation
+"Koidu tänav",,,,relation
 Köie,,,,way
 Koitmetsa,,,,way
 "Kõivu põik",,,,way
-"Kõivu tee",,,,way
+"Kõivu tee",,,,relation
 Kõla,,,,way
-"Kolde pst",,,,way
+"Kõla tänav",,,,relation
+"Kolde puiestee",,,,relation
 "Koldrohu tee",,,,way
-Kollane,,,,way
+"Kollane tänav",,,,relation
 "Kõlviku põik",,,,way
-"Kõlviku tee",,,,way
+"Kõlviku tee",,,,relation
 "Komandandi tee",,,,way
 Komeedi,,,,way
+"Kommunismiohvrite memoriaal",,,,way
 Kõnnu,,,,way
-"Konstantin Türnpu",,,,way
 "Kontpuu tee",,,,way
 Koogu,,,,way
 Kooli,,,,way
 Köömne,,,,way
 Koovitaja,,,,way
 Kopli,,,,way
-Kopliranna,,,,way
-Korese,,,,way
-Kõrge,,,,way
+"Kopli tänav",,,,relation
+"Kopliranna tänav",,,,relation
+"Korese tänav",,,,relation
+"Kõrge tänav",,,,relation
 Kõrgepinge,,,,way
+"Kõrgepinge tänav",,,,relation
 Korgi,,,,way
-"Kõrkja tee",,,,way
+"Kõrkja tee",,,,relation
 Kõrre,,,,way
 "Kose põik",,,,way
-"Kose tee",,,,way
-Kosemetsa,,,,way
-Koskla,,,,way
+"Kose tee",,,,relation+way
+"Kosemetsa tänav",,,,relation
+"Koskla tänav",,,,relation
 Kotermaa,,,,way
 Kotka,,,,way
-Kotkapoja,,,,way
+"Kotka tänav",,,,relation
+"Kotkapoja tänav",,,,relation
 Kotlepi,,,,way
-Kotzebue,,,,way
+"Kotzebue tänav",,,,relation
 Kõue,,,,way
-Kõver,,,,way
-Kraavi,,,,way
-Kreegi,,,,way
+"Kõver tänav",,,,relation
+"Kraavi tänav",,,,relation
 "Kreegi põik",,,,way
+"Kreegi tänav",,,,relation
 "Kressi tee",,,,way
 Kriibi,,,,way
-Kristeni,,,,way
-Kristiina,,,,way
-"Kristjan Kärberi",,,,way
-"Kristjan Raua",,,,way
+"Kriidi tänav",,,,relation
+"Kristeni tänav",,,,relation
+"Kristiina tänav",,,,relation
 Krookuse,,,,way
-Krooni,,,,way
+"Krooni tänav",,,,relation
+Kruiisipromenaad,,,,relation+way
 Kruusa,,,,way
-"Kruusaranna tee",,,,way
+"Kruusaranna tee",,,,relation
 Krüüsli,,,,way
-Kubu,,,,way
-Kudu,,,,way
+"Kubu tänav",,,,relation
+"Kudu tänav",,,,relation
 Kuhja,,,,way
 Kuiv,,,,way
 Kuke,,,,way
 Kukesaba,,,,way
-Kuklase,,,,way
-Kukulinnu,,,,way
+"Kuklase tänav",,,,relation
+"Kukulinnu tänav",,,,relation
 "Kuldala tee",,,,way
 Kuldnoka,,,,way
+"Kuldnoka tänav",,,,relation
 Kuljuse,,,,way
 Kullassepa,,,,way
 Kullerkupu,,,,way
 Kullese,,,,way
-Kulli,,,,way
+"Kulli tänav",,,,relation
 Külma,,,,way
 Külmallika,,,,way
 "Külmallika põik",,,,way
 Kultuurikilomeeter,,,,way
-Külvi,,,,way
+"Külvi tänav",,,,relation
 Kumalase,,,,way
-Kume,,,,way
+"Kume tänav",,,,relation
 "Kummeli tee",,,,way
-Kungla,,,,way
+"Kungla tänav",,,,relation
 Kuninga,,,,way
-Künka,,,,way
+"Künka tänav",,,,relation
 Künkamaa,,,,way
 Künnapuu,,,,way
-Künni,,,,way
+"Künni tänav",,,,relation
 "Kupra tee",,,,way
 Kura,,,,way
-Kure,,,,way
+"Kure tänav",,,,relation
 "Kurekatla tee",,,,way
 Kuremarja,,,,way
-"Kurereha tee",,,,way
+"Kurereha tee",,,,relation+way
 "Kurikneeme tee",,,,way
-Kuristiku,,,,way
+"Kuristiku tänav",,,,relation
 Kurmu,,,,way
-Kurni,,,,way
 "Kurni põik",,,,way
+"Kurni tänav",,,,relation
 Kursi,,,,way
-Kuru,,,,way
-Kuslapuu,,,,way
+"Kuru tänav",,,,relation
+"Kuslapuu tänav",,,,relation
 Küti,,,,way
 "Kuukressi tee",,,,way
-Kuuli,,,,way
-Kuunari,,,,way
-Kuuse,,,,way
-"Kuusenõmme tee",,,,way
-"Kuusiku tee",,,,way
+"Kuuli tänav",,,,relation
+"Kuunari tänav",,,,relation
+"Kuuse tänav",,,,relation
+"Kuusenõmme tee",,,,relation
+"Kuusiku tee",,,,relation
 Kvartsi,,,,way
-"Laagna tee",,,,way
-Laane,,,,way
+"Laagna tee",,,,relation
+"Laane tänav",,,,relation
 "Lääne tee",,,,way
 Läänekaare,,,,way
 Laanelille,,,,way
-"Läänemere tee",,,,way
-Laaniku,,,,way
+"Läänemere tee",,,,relation
+"Laaniku tänav",,,,relation
 "Läätspuu tee",,,,way
-Laboratooriumi,,,,way
-Laeva,,,,way
-Laevastiku,,,,way
-"Lagedi tee",,,,way
+"Laboratooriumi tänav",,,,relation
+"Laeva tänav",,,,relation
+"Laevastiku tänav",,,,relation
+"Lagedi tee",,,,relation+way
 Lageloo,,,,way
 "Lagle pst",,,,way
 Lahe,,,,way
-Lahepea,,,,way
-Lai,,,,way
+"Lahepea tänav",,,,relation
+"Lai tänav",,,,relation
 "Laiaküla tee",,,,way
 Läike,,,,way
 Laine,,,,way
 Laki,,,,way
 "Laki põik",,,,way
-Lambi,,,,way
-Lammi,,,,way
-Landi,,,,way
+"Laki tänav",,,,relation
+"Lambi tänav",,,,relation
+"Lammi tänav",,,,relation
+"Landi tänav",,,,relation
 Laose,,,,way
 Lasnamäe,,,,way
+"Lasnamäe tänav",,,,relation
 Laste,,,,way
 Lastekodu,,,,way
-Latika,,,,way
+"Lastekodu tänav",,,,relation
+"Latika tänav",,,,relation
 Lätte,,,,way
 Lauka,,,,way
-Lauliku,,,,way
+"Lauliku tänav",,,,relation
 Laulu,,,,way
-Laulupeo,,,,way
-"Lauri tee",,,,way
+"Laulu tänav",,,,relation
+"Laulupeo tänav",,,,relation
+"Lauri tee",,,,relation
 Laurimaa,,,,way
 Lauripere,,,,way
-Lavamaa,,,,way
+"Lavamaa tänav",,,,relation
 Lee,,,,way
 Leediku,,,,way
 "Leedri tee",,,,way
 Leegi,,,,way
-Leesika,,,,way
-Leete,,,,way
+"Leesika tänav",,,,relation
+"Leete tänav",,,,relation
 Leevikese,,,,way
-Lehe,,,,way
-"Lehiku tee",,,,way
+"Lehe tänav",,,,relation
+"Lehiku tee",,,,relation+way
 Lehise,,,,way
 "Lehiste pst",,,,way
 Lehola,,,,way
-Lehtmäe,,,,way
+"Lehtmäe tänav",,,,relation
 Lehtpuu,,,,way
-Lehtri,,,,way
+"Lehtri tänav",,,,relation
 Leigeri,,,,way
 Leina,,,,way
 Leiva,,,,way
-Lelle,,,,way
+"Lelle tänav",,,,relation
 Lemle,,,,way
-Lemmiku,,,,way
-"Lemmiku põik",,,,way
-"Lennujaama tee",,,,way
+"Lemmiku põik",,,,relation
+"Lemmiku tänav",,,,relation
+"Lennujaama tee",,,,relation+way
 Lennuki,,,,way
-Lennusadama,,,,way
+"Lennusadama tänav",,,,relation
 Lennuse,,,,way
 Lepa,,,,way
 "Lepa põik",,,,way
 Lepatriinu,,,,way
-"Lepiku tee",,,,way
+"Lepiku tee",,,,relation
 Lesta,,,,way
+"Lesta tänav",,,,relation
 Lible,,,,way
 Liblika,,,,way
-Liikuri,,,,way
+"Liikuri tänav",,,,relation
 "Liilia tee",,,,way
 Liimi,,,,way
-Liinivahe,,,,way
-Liipri,,,,way
-Liiva,,,,way
-Liivalaia,,,,way
+"Liinivahe tänav",,,,relation
+"Liipri tänav",,,,relation
+"Liiva tänav",,,,relation
+"Liivalaia tänav",,,,relation
 Liivaluite,,,,way
-Liivamäe,,,,way
+"Liivamäe tänav",,,,relation
 Liivametsa,,,,way
-Liivaoja,,,,way
-"Liivaranna tee",,,,way
+"Liivaoja tänav",,,,relation
+"Liivaranna tee",,,,relation
 Liiviku,,,,way
 Lille,,,,way
 "Lilleherne tee",,,,way
 Lillevälja,,,,way
 Lina,,,,way
 Linda,,,,way
-"Lindakivi pst",,,,way
-"Lindakivi sild",,,,way
-"Linnamäe tee",,,,way
-"Linnu tee",,,,way
-"Linnuse tee",,,,way
+"Lindakivi puiestee",,,,relation
+"Linnamäe tee",,,,relation
+"Linnu tee",,,,relation+way
+"Linnuse tee",,,,relation+way
 Lobjaka,,,,way
-"Lodjapuu tee",,,,way
-"Lodumetsa tee",,,,way
+"Lodjapuu tee",,,,relation+way
+"Lodumetsa tee",,,,relation
 Logi,,,,way
+"Logi tänav",,,,relation
 Lõhe,,,,way
 "Lõhmuse tee",,,,way
-Lohu,,,,way
+"Lohu tänav",,,,relation
 Loigu,,,,way
+"Loigu tänav",,,,relation
 Lõikuse,,,,way
-Lõime,,,,way
+"Lõime tänav",,,,relation
 Lõimise,,,,way
 Loite,,,,way
-Loitsu,,,,way
-Lõkke,,,,way
+"Loitsu tänav",,,,relation
+"Lõkke tänav",,,,relation
 Loo,,,,way
 Lõo,,,,way
-Loode,,,,way
 "Loode põik",,,,way
-Looga,,,,way
+"Loode tänav",,,,relation
+"Looga tänav",,,,relation
 Lõokese,,,,way
-"Looklev tee",,,,way
+"Looklev tee",,,,relation
 Loometsa,,,,way
 Loomuse,,,,way
-"Loopealse pst",,,,way
-"Lõosilma tee",,,,way
+"Loopealse puiestee",,,,relation
+"Lõosilma tee",,,,relation
 Lõõtsa,,,,way
-Lootsi,,,,way
-"Lootuse pst",,,,way
-Lossi,,,,way
-"Lossi plats",,,,way
+"Lõõtsa tänav",,,,relation
+"Lootsi tänav",,,,relation
+"Lootuse puiestee",,,,relation
+"Lossi plats",,,,relation
+"Lossi tänav",,,,relation
 Lossihoov,,,,relation
-Lõuka,,,,way
-Lõuna,,,,way
-Lõvi,,,,way
+"Lõuka tänav",,,,relation
+"Lõuna tänav",,,,relation
+"Lõvi tänav",,,,relation
 Lubja,,,,way
-Luha,,,,way
+"Lubja tänav",,,,relation
+"Luha tänav",,,,relation
 Lühike,,,,way
-"Lühike jalg",,,,way
+"Lühike jalg",,,,relation
 Luige,,,,way
 Luise,,,,way
+"Luise tänav",,,,relation
 Luisu,,,,way
-Luite,,,,way
-"Lükati tee",,,,way
+"Luite tänav",,,,relation
+"Lükati tee",,,,relation
+"Luku tänav",,,,relation
 Lüli,,,,way
 "Lumikellukese tee",,,,way
-Lummu,,,,way
+"Lummu tänav",,,,relation
 Luste,,,,way
-"Lydia Koidula",,,,way
-Maakri,,,,way
+"Maakri tänav",,,,relation
 Maarjaheina,,,,way
+"Maarjaheina tänav",,,,relation
 Maarjamäe,,,,way
 Maasika,,,,way
-Madala,,,,way
+"Madala tänav",,,,relation
 Madalmaa,,,,way
 Madara,,,,way
-Mäe,,,,way
+"Madara tänav",,,,relation
+"Mäe tänav",,,,relation
 Mäealuse,,,,way
 Mäekalda,,,,way
-Mäekõrtsi,,,,way
+"Mäekalda tänav",,,,relation
+"Mäekõrtsi tänav",,,,relation
 Mäeküla,,,,way
-Mäepealse,,,,way
+"Mäepealse tänav",,,,relation
 Mäepere,,,,way
 Magasini,,,,way
+"Magasini tänav",,,,relation
 Magdaleena,,,,way
+"Magdaleena tänav",,,,relation
 Mägra,,,,way
 "Mähe tee",,,,way
-"Mähe-Kaasiku tee",,,,way
-Mahla,,,,way
-Mahtra,,,,way
+"Mähe-Kaasiku tee",,,,relation
+"Mahla tänav",,,,relation
+"Mahtra tänav",,,,relation
 Mai,,,,way
 "Mai põik",,,,way
 "Maikellukese tee",,,,way
@@ -720,122 +737,128 @@ Maimu,,,,way
 Maisi,,,,way
 "Mait Metsanurga",,,,way
 Majaka,,,,way
-"Majaka põik",,,,way
+"Majaka põik",,,,relation+way
+"Majaka tänav",,,,relation
 Male,,,,way
-Maleva,,,,way
 "Maleva põik",,,,way
+"Maleva tänav",,,,relation
 Malmi,,,,way
 Maneeži,,,,way
-Mängu,,,,way
-Männi,,,,way
-"Männiku tee",,,,way
-Männiliiva,,,,way
+"Mängu tänav",,,,relation
+"Männi tänav",,,,relation
+"Männiku tee",,,,relation+way
+"Männiliiva tänav",,,,relation
 "Männimäe tee",,,,way
 "Männimetsa põik",,,,way
 "Männimetsa tee",,,,way
 "Männioru tee",,,,way
 Mänsaku,,,,way
-Manufaktuuri,,,,way
-Marati,,,,way
-Mardi,,,,way
-Mardipere,,,,way
+"Manufaktuuri tänav",,,,relation
+"Marati tänav",,,,relation
+"Mardi tänav",,,,relation
+"Mardipere tänav",,,,relation
 Marja,,,,way
-Marjamaa,,,,way
+"Marja tänav",,,,relation
+"Marjamaa tänav",,,,relation
 Marmori,,,,way
 Marsi,,,,way
-Marta,,,,way
+"Marta tänav",,,,relation
 Martsa,,,,way
 "Märtsikellukese tee",,,,way
-Masina,,,,way
-Masti,,,,way
+"Masina tänav",,,,relation
+"Masti tänav",,,,relation
 "Matka tee",,,,way
-Meeliku,,,,way
-Meeruse,,,,way
-Meeta,,,,way
+"Meeliku tänav",,,,relation
+"Meeruse tänav",,,,relation
+"Meeta tänav",,,,relation
 Mehaanika,,,,way
 Meika,,,,way
-Meistri,,,,way
+"Meistri tänav",,,,relation
 "Meistrite hoov",,,,way
-Meleka,,,,way
+"Meleka tänav",,,,relation
 "Mere pst",,,,way
+"Mere puiestee",,,,relation
+"Merelahe tee",,,,relation
 "Meremehe tee",,,,way
 Merihärja,,,,way
-"Merimetsa tee",,,,way
+"Merimetsa tee",,,,relation
 "Merimetsa terviserada",,,,way
-Merinõela,,,,way
-Merirahu,,,,way
+"Merinõela tänav",,,,relation
+"Merirahu tänav",,,,relation
 Meriski,,,,way
-"Merivälja tee",,,,way
-"Mesika põik",,,,way
-"Mesika tee",,,,way
+"Merivälja tee",,,,relation
+"Mesika põik",,,,relation
+"Mesika tee",,,,relation+way
 Mesila,,,,way
-Metalli,,,,way
-Metsa,,,,way
+"Metalli tänav",,,,relation
 "Metsa põik",,,,way
-"Metsakooli põik",,,,way
+"Metsa tänav",,,,relation
+"Metsakooli põik",,,,relation
 "Metsakooli tee",,,,way
 "Metsavahi põik",,,,way
-"Metsavahi tee",,,,way
+"Metsavahi tee",,,,relation
 Metsaveere,,,,way
 "Metsniku tee",,,,way
 Mihkli,,,,way
 "Miiduranna tee",,,,way
-"Miina Härma",,,,way
-"Miina Härma sild",,,,way
 "Miku tee",,,,way
-Mineraali,,,,way
+"Mineraali tänav",,,,relation
 Mingi,,,,way
-Mirta,,,,way
+"Mirta tänav",,,,relation
 Mõigu,,,,way
 "Mõigu tee",,,,way
-Mõisa,,,,way
+"Mõisa tänav",,,,relation
 Mõisapõllu,,,,way
-"Möldre tee",,,,way
+"Mõisapõllu tänav",,,,relation
+"Möldre tee",,,,relation+way
 "Mõõna tee",,,,way
-Moonalao,,,,way
+"Moonalao tänav",,,,relation
 Mooni,,,,way
+"Mooni tänav",,,,relation
 Moora,,,,way
 "Moora umbtänav",,,,way
 "Mõrra tee",,,,way
 "Moskva pst",,,,way
 Mõtuse,,,,way
-"Mugula tee",,,,way
+"Mugula tee",,,,relation
 Muhu,,,,way
 Mulla,,,,way
-Mullamaa,,,,way
+"Mullamaa tänav",,,,relation
 Mündi,,,,way
 Munga,,,,way
 Muraka,,,,way
-Mureli,,,,way
+"Mureli tänav",,,,relation
 Muru,,,,way
-"Mustakivi tee",,,,way
+"Mustakivi tee",,,,relation
 "Mustakivi tee pikendus",,,,way
-"Mustamäe tee",,,,way
-Mustasõstra,,,,way
+"Mustamäe tee",,,,relation+way
+"Mustasõstra tänav",,,,relation
 Mustika,,,,way
-Mustjõe,,,,way
 "Mustjõe põik",,,,way
+"Mustjõe tänav",,,,relation
+"Mustjuure tänav",,,,relation
 Müta,,,,way
 Muti,,,,way
 "Muuga tee",,,,way
 "Muuli tee",,,,way
 Muuluka,,,,way
-Müürivahe,,,,way
+"Müürivahe tänav",,,,relation
 "Naadi tee",,,,way
-Naaritsa,,,,way
+"Naaritsa tänav",,,,relation
 Nabra,,,,way
 Naeri,,,,way
-Nafta,,,,way
+"Nafta tänav",,,,relation
 "Naistepuna tee",,,,way
-Näituse,,,,way
+"Näituse tänav",,,,relation
+"Narva maantee",,,,relation
 "Narva mnt",,,,way
-"Näsiniine tee",,,,way
-Nata,,,,way
+"Näsiniine tee",,,,relation
+"Nata tänav",,,,relation
 Neeme,,,,way
 Neemiku,,,,way
 "Neiuvaiba tee",,,,way
-Nelgi,,,,way
-Nepi,,,,way
+"Nelgi tänav",,,,relation
+"Nepi tänav",,,,relation
 Nigli,,,,way
 Niguliste,,,,way
 Niidi,,,,way
@@ -843,147 +866,157 @@ Niidi,,,,way
 "Niidu tee",,,,way
 Niine,,,,way
 "Niine põik",,,,way
-"Nikolai von Glehni",,,,way
 "Nikolai von Glehni põik",,,,way
 Nirgi,,,,way
 Nisu,,,,way
 Nõelasilma,,,,way
 Nõeliku,,,,way
 Nõgikikka,,,,way
-Nõlva,,,,way
+"Nõlva tänav",,,,relation
 "Nõmme põik",,,,way
-"Nõmme tee",,,,way
-Nõmme-Kase,,,,way
+"Nõmme tee",,,,relation
+"Nõmme-Kase tänav",,,,relation
 "Nõo tee",,,,way
-"Nooda tee",,,,way
+"Nooda tee",,,,relation
 Noole,,,,way
-Noorkuu,,,,way
+"Noorkuu tänav",,,,relation
 Nõva,,,,way
-Nugise,,,,way
+"Nugise tänav",,,,relation
 Nuia,,,,way
 Nulu,,,,way
 Nunne,,,,way
+"Nunne tänav",,,,relation
 Nurklik,,,,way
-Nurme,,,,way
-"Nurmenuku tee",,,,way
+"Nurme tänav",,,,relation
+"Nurmenuku tee",,,,relation
 "Nurmiku põik",,,,way
 "Nurmiku tee",,,,way
 Oa,,,,way
 "Oblika tee",,,,way
 Oda,,,,way
-Odra,,,,way
+"Odra tänav",,,,relation
 Õhtu,,,,way
 Õie,,,,way
 "Õie põik",,,,way
+"Õie tänav",,,,relation
 Õilme,,,,way
-"Õismäe tee",,,,way
+"Õismäe tee",,,,relation+way
 "Õismäe tee sisering",,,,way
-Õitse,,,,way
-Oja,,,,way
+"Õitse tänav",,,,relation
+"Oja tänav",,,,relation
 Ojakääru,,,,way
 Ojaveere,,,,way
 Okka,,,,way
 Oksa,,,,way
 Õle,,,,way
-Olevi,,,,way
 "Olevi põik",,,,way
-Olevimägi,,,,way
+"Olevi tänav",,,,relation
+Olevimägi,,,,relation
 Oleviste,,,,way
+"Õllepruuli tänav",,,,relation
 Õnne,,,,way
 Ööbiku,,,,way
 Oomi,,,,way
 Õpetajate,,,,way
 Õppe-riigipiir,,,,way
 Orase,,,,way
-Orava,,,,way
-Oru,,,,way
+"Orava tänav",,,,relation
+"Oru tänav",,,,relation
 "Osja tee",,,,way
 Osmussaare,,,,way
+"Osmussaare tänav",,,,relation
 Oti,,,,way
 Otsatalu,,,,way
 Otse,,,,way
 Õuna,,,,way
-Paabusilma,,,,way
 Paadi,,,,way
-Paagi,,,,way
-"Paakspuu tee",,,,way
+"Paagi tänav",,,,relation
+"Paakspuu tee",,,,relation
 Paasiku,,,,way
 Pääsküla,,,,way
 "Pääsküla kivisild",,,,way
 "Pääsküla raba õpperada",,,,way
 Pääsusaba,,,,way
 "Pääsusilma tee",,,,way
-"Padriku tee",,,,way
+"Paavli tänav",,,,relation
+"Padriku tee",,,,relation
 Padu,,,,way
 Pae,,,,way
 "Pae sild",,,,way
-Paekaare,,,,way
+"Pae tänav",,,,relation
+"Paekaare tänav",,,,relation
 Paekalda,,,,way
 Paekivi,,,,way
 "Paemurru tee",,,,way
-Paepargi,,,,way
-Päevakoera,,,,way
+"Paepargi tänav",,,,relation
 Päevalille,,,,way
 "Paevälja pst",,,,way
 "Paevälja tee",,,,way
 Pagari,,,,way
+"Pagi tänav",,,,relation
 Pähkli,,,,way
 Paide,,,,way
 "Päikese pst",,,,way
+"Päikese puiestee",,,,relation
 Paiste,,,,way
-Paisu,,,,way
+"Paisu tänav",,,,relation
 Paju,,,,way
-"Pajude pst",,,,way
+"Pajude puiestee",,,,relation
 "Pajulille tee",,,,way
-"Pajustiku tee",,,,way
+"Pajustiku tee",,,,relation
 Pakase,,,,way
-"Palderjani tee",,,,way
+"Palderjani tee",,,,relation
+"Paldiski maantee",,,,relation
 "Paldiski mnt",,,,way
 Paljandi,,,,way
-"Paljassaare põik",,,,way
-"Paljassaare tee",,,,way
+"Paljassaare põik",,,,relation
+"Paljassaare tee",,,,relation+way
 Pallasti,,,,way
-"Pallasti sild",,,,way
+"Pallasti tänav",,,,relation
 Palli,,,,way
 "Pällo tee",,,,way
 Palu,,,,way
-Palusambla,,,,way
+"Palusambla tänav",,,,relation
 Paneeli,,,,way
 Panga,,,,way
 Papli,,,,way
 "Paplite pst",,,,way
-Pardi,,,,way
-Pardiloigu,,,,way
-Pargi,,,,way
-Pärituule,,,,way
+"Parda tänav",,,,relation
+"Pardi tänav",,,,relation
+"Pardiloigu tänav",,,,relation
+"Pargi tänav",,,,relation
+"Pärituule tänav",,,,relation
 Pärja,,,,way
-"Pärnade pst",,,,way
-"Pärnamäe tee",,,,way
+"Pärnade puiestee",,,,relation
+"Pärnamäe tee",,,,relation+way
 "Pärnaõie tee",,,,way
-"Pärniku tee",,,,way
+"Pärniku tee",,,,relation
+"Pärnu maantee",,,,relation
 "Pärnu mnt",,,,way
-Pärnulõuka,,,,way
+"Pärnulõuka tänav",,,,relation
 Parve,,,,way
 "Patkuli trepp",,,,way
-"Paul Kerese",,,,way
 "Paul Pinna",,,,way
 Pauna,,,,way
 Pebre,,,,way
 Pedaja,,,,way
-"Peeter Süda",,,,way
 Peetri,,,,way
 "Peetri ring",,,,way
+"Peetri tänav",,,,relation
 Pelguranna,,,,way
+"Pelguranna tänav",,,,relation
 Pendi,,,,way
 Pesa,,,,way
-"Peterburi tee",,,,way
-Petrooleumi,,,,way
-Pidu,,,,way
-Pihlaka,,,,way
+"Peterburi tee",,,,relation+way
+"Petrooleumi tänav",,,,relation
+"Pidu tänav",,,,relation
+"Pihlaka tänav",,,,relation
 Pihlamarja,,,,way
-"Pihlametsa tee",,,,way
+"Pihlametsa tee",,,,relation
 Piibelehe,,,,way
 Piibri,,,,way
+"Piibri tänav",,,,relation
+"Piima tänav",,,,relation
 Piimamehe,,,,way
 "Piipheina tee",,,,way
 Piiri,,,,way
@@ -991,29 +1024,33 @@ Piiritsa,,,,way
 Piiskopi,,,,way
 Pikakase,,,,way
 Pikaliiva,,,,way
-Pikk,,,,way
-"Pikk jalg",,,,way
+"Pikaliiva tänav",,,,relation
+"Pikk jalg",,,,relation
+"Pikk tänav",,,,relation
 Pikksilma,,,,way
 "Pikksilma promenaad",,,,way
 Pikri,,,,way
+"Pikri tänav",,,,relation
 Pikse,,,,way
-Piksepeni,,,,way
 Pille,,,,way
+"Pille tänav",,,,relation
 Pilliroo,,,,way
+"Pilliroo tänav",,,,relation
 "Pilstickeri trepp",,,,way
 Pilve,,,,way
 Pilviku,,,,way
 Pinu,,,,way
 "Pirita Terviserajad",,,,way
 "Pirita promenaad",,,,way
-"Pirita tee",,,,way
+"Pirita tee",,,,relation+way
 Pirni,,,,way
 Plaasi,,,,way
-Planeedi,,,,way
-Plangu,,,,way
+"Planeedi tänav",,,,relation
+"Plangu tänav",,,,relation
+"Plasti tänav",,,,relation
 Põdra,,,,way
-"Põdrakanepi tee",,,,way
-"Põhja pst",,,,way
+"Põdrakanepi tee",,,,relation
+"Põhja puiestee",,,,relation
 Põhjakaare,,,,way
 Pohla,,,,way
 Pöialpoisi,,,,way
@@ -1021,138 +1058,150 @@ Pöialpoisi,,,,way
 Põlde,,,,way
 "Põlde põik",,,,way
 Põldma,,,,way
-Põldmarja,,,,way
+"Põldmarja tänav",,,,relation
 Põlendiku,,,,way
-Põllu,,,,way
 "Põllu põik",,,,way
-Põllumäe,,,,way
+"Põllu tänav",,,,relation
+"Põllumäe tänav",,,,relation
 Poordi,,,,way
-Pöörise,,,,way
-"Põõsa tee",,,,way
+"Poordi tänav",,,,relation
+"Pöörise tänav",,,,relation
+"Põõsa tee",,,,relation
 Poru,,,,way
 Postitalu,,,,way
 Preesi,,,,way
-Prii,,,,way
+"Prii tänav",,,,relation
 "Priimula tee",,,,way
 Priimurru,,,,way
-"Priisle tee",,,,way
-"Printsu tee",,,,way
-Pronksi,,,,way
+"Priisle tee",,,,relation+way
+"Printsu tee",,,,relation
+"Pronksi tänav",,,,relation
 "Pruuali tee",,,,way
 Puhangu,,,,way
+"Puhangu tänav",,,,relation
 Pühavaimu,,,,way
 Puhke,,,,way
-"Puhkekodu tee",,,,way
+"Puhkekodu tee",,,,relation
 Puhma,,,,way
-Puju,,,,way
+"Puju tänav",,,,relation
 "Puki tee",,,,way
 "Pukspuu tee",,,,way
 Punane,,,,way
-"Pune tee",,,,way
+"Punane tänav",,,,relation
+"Pune tee",,,,relation
 Punga,,,,way
 Puraviku,,,,way
 Purde,,,,way
-Purje,,,,way
+"Purje tänav",,,,relation
 Püssirohu,,,,way
-Puu,,,,way
 Püü,,,,way
+"Puu tänav",,,,relation
 Puusepa,,,,way
-Puuvilja,,,,way
-Puuvilla,,,,way
-Raadiku,,,,way
+"Puuvilja tänav",,,,relation
+"Puuvilla tänav",,,,relation
 "Raadiku sild",,,,way
-Räägu,,,,way
-Raba,,,,way
-Rabaveere,,,,way
+"Raadiku tänav",,,,relation
+"Räägu tänav",,,,relation
+"Raba tänav",,,,relation
+"Rabaveere tänav",,,,relation
 Raekoja,,,,way
 "Raekoja plats",,,,way
 Räga,,,,way
+"Räga tänav",,,,relation
 Rahe,,,,way
 Rähni,,,,way
-Rahu,,,,way
-"Rahu tee",,,,way
-Rahukohtu,,,,way
-"Rahumäe tee",,,,way
+"Rahu tänav",,,,relation
+"Rahu tee",,,,relation
+"Rahukohtu tänav",,,,relation
+"Rahumäe tee",,,,relation
 "Rahvakooli tee",,,,way
 "Raiduri tee",,,,way
 Raie,,,,way
-Räime,,,,way
+"Räime tänav",,,,relation
 Räitsaka,,,,way
-Raja,,,,way
+"Raja tänav",,,,relation
 "Rajamäe tee",,,,way
 Rajametsa,,,,way
-Rajapere,,,,way
-Rakise,,,,way
-Randla,,,,way
+"Rajapere tänav",,,,relation
+"Rakise tänav",,,,relation
+"Randla tänav",,,,relation
 "Rändrahnu tee",,,,way
 Ränduri,,,,way
-"Randvere tee",,,,way
+"Randvere tee",,,,relation+way
 Rangu,,,,way
-"Ranna tee",,,,way
-"Rännaku pst",,,,way
-"Rannamäe tee",,,,way
-"Rannamõisa tee",,,,way
+"Ranna tee",,,,relation
+"Rännaku puiestee",,,,relation
+"Rannamäe tee",,,,relation
+"Rannamõisa tee",,,,relation+way
 Rannaniidu,,,,way
 "Ranniku põik",,,,way
-"Ranniku tee",,,,way
+"Ranniku tee",,,,relation+way
 Rao,,,,way
-Rästa,,,,way
 "Rästa põik",,,,way
-Rataskaevu,,,,way
-"Rätsepa tee",,,,way
+"Rästa tänav",,,,relation
+"Rataskaevu tänav",,,,relation
+"Rätsepa tee",,,,relation
 Ratta,,,,way
 Raua,,,,way
 "Raua põik",,,,way
+"Raua tänav",,,,relation
 "Raudkivi tee",,,,way
 "Raudosja tee",,,,way
-Raudtee,,,,way
-"Rävala pst",,,,way
-Ravi,,,,way
+"Raudtee tänav",,,,relation
+"Rävala puiestee",,,,relation
+"Ravi tänav",,,,relation
 Ravila,,,,way
-Rebase,,,,way
+"Rebase tänav",,,,relation
 "Rebasesaba tee",,,,way
-"Regati pst",,,,way
-Reha,,,,way
-Rehe,,,,way
+"Regati puiestee",,,,relation
+"Reha tänav",,,,relation
 "Rehe põik",,,,way
+"Rehe tänav",,,,relation
 Rehelepa,,,,way
 "Rehelepa põik",,,,way
-"Reidi tee",,,,way
+"Reidi tee",,,,relation
+"Reisijate tänav",,,,relation
 Reketi,,,,way
 Remmelga,,,,way
-"Retke tee",,,,way
+"Retke tee",,,,relation
 Riida,,,,way
 Riisika,,,,way
 "Ristaia tee",,,,way
-Risti,,,,way
+"Risti tänav",,,,relation
 Ristiku,,,,way
 "Ristiku põik",,,,way
+"Ristiku tänav",,,,relation
 Rivi,,,,way
+"Rivi tänav",,,,relation
 "Rocca al Mare rannapromenaad",,,,way
-Roheline,,,,way
-"Roheline aas",,,,way
-Rohu,,,,way
+"Roheline aas",,,,relation
+"Roheline tänav",,,,relation
+"Rohu tänav",,,,relation
 Rohula,,,,way
+"Rohula tänav",,,,relation
 Rohumaa,,,,way
 Rõika,,,,way
 Ronga,,,,way
 Roo,,,,way
-Roolahe,,,,way
+"Roolahe tänav",,,,relation
 Rõõmu,,,,way
-Roopa,,,,way
+"Roopa tänav",,,,relation
 Roosi,,,,way
-Roosikrantsi,,,,way
-Roostiku,,,,way
+"Roosikrantsi tänav",,,,relation
+"Roostiku tänav",,,,relation
 Roseni,,,,way
+"Roseni tänav",,,,relation
 Rotermanni,,,,way
+"Rotermanni tänav",,,,relation
 "Rotermanni väljak",,,,relation
 Rõugu,,,,way
-"Rudolf Tobiase",,,,way
+"Rõugu tänav",,,,relation
 Rukki,,,,way
 "Rukkilille tee",,,,way
 Rulli,,,,way
-Rumbi,,,,way
-"Rummu tee",,,,way
+"Rulli tänav",,,,relation
+"Rumbi tänav",,,,relation
+"Rummu tee",,,,relation
 Ründi,,,,way
 Rutu,,,,way
 Ruunaoja,,,,way
@@ -1161,43 +1210,42 @@ Saadu,,,,way
 Saagi,,,,way
 Saani,,,,way
 Saare,,,,way
-"Saaremaa pst",,,,way
-"Saarepiiga pst",,,,way
-"Saarepiiga sild",,,,way
+"Saaremaa puiestee",,,,relation
+"Saarepiiga puiestee",,,,relation
 Saarepuu,,,,way
 "Saariku tee",,,,way
-Saarma,,,,way
-"Saarma põik",,,,way
+"Saarma põik",,,,relation
+"Saarma tänav",,,,relation
 "Saarvahtra pst",,,,way
 Sääse,,,,way
-Sadama,,,,way
+"Sääse tänav",,,,relation
+"Sadama tänav",,,,relation
 Sädeme,,,,way
 Saeveski,,,,way
-Sagari,,,,way
+"Sagari tänav",,,,relation
 Saha,,,,way
 "Saha põik",,,,way
-Saiakang,,,,way
+Saiakang,,,,relation
 Säina,,,,way
-Sakala,,,,way
-Saku,,,,way
-Salme,,,,way
+"Sakala tänav",,,,relation
+"Saku tänav",,,,relation
+"Salme tänav",,,,relation
 "Salu tee",,,,way
 Salve,,,,way
 Sambla,,,,way
 Samblajuure,,,,way
 Sambliku,,,,way
-Sammu,,,,way
+"Sammu tänav",,,,relation
 Sanatooriumi,,,,way
 Sanglepa,,,,way
-"Sarapiku tee",,,,way
+"Sarapiku tee",,,,relation
 Sarapuu,,,,way
-Särje,,,,way
+"Särje tänav",,,,relation
 Särjesilma,,,,way
-Sarmiku,,,,way
-Sarra,,,,way
+"Sarra tänav",,,,relation
 Sarruse,,,,way
 Sarve,,,,way
-Saturni,,,,way
+"Saturni tänav",,,,relation
 Saue,,,,way
 Sauna,,,,way
 "Saviliiva tee",,,,way
@@ -1211,31 +1259,33 @@ Selise,,,,way
 Selja,,,,way
 Seljaku,,,,way
 Sepa,,,,way
-Sepapaja,,,,way
+"Sepa tänav",,,,relation
+"Sepapaja tänav",,,,relation
 Sepapere,,,,way
 Sepapoisi,,,,way
-Sepise,,,,way
+"Sepise tänav",,,,relation
 Serva,,,,way
 Side,,,,way
 Siduri,,,,way
-Sihi,,,,way
+"Sihi tänav",,,,relation
 Siia,,,,way
-Siidisaba,,,,way
-Siili,,,,way
+"Siidisaba tänav",,,,relation
+"Siili tänav",,,,relation
 Siire,,,,way
 Sikupilli,,,,way
-Sikuti,,,,way
-Silde,,,,way
-Silgu,,,,way
+"Sikuti tänav",,,,relation
+"Silde tänav",,,,relation
+"Silgu tänav",,,,relation
 Silikaltsiidi,,,,way
-Silla,,,,way
+"Silikaltsiidi tänav",,,,relation
+"Silla tänav",,,,relation
 Silluse,,,,way
 Silmiku,,,,way
 Silmu,,,,way
 Sinika,,,,way
 "Siniladva tee",,,,way
 Sinilille,,,,way
-Sinimäe,,,,way
+"Sinimäe tänav",,,,relation
 Sininuku,,,,way
 Sinirebase,,,,way
 Sinitiiva,,,,way
@@ -1243,19 +1293,20 @@ Sipelga,,,,way
 Sirbi,,,,way
 Sireli,,,,way
 Sirge,,,,way
-Sisaski,,,,way
+"Sisaski tänav",,,,relation
 Sitsi,,,,way
-"Sitska tee",,,,way
-Sõbra,,,,way
+"Sitska tee",,,,relation
 "Sõbra põik",,,,way
+"Sõbra tänav",,,,relation
 Söe,,,,way
 "Söe põik",,,,way
-Sõjakooli,,,,way
+"Sõjakooli tänav",,,,relation
 Sõle,,,,way
+"Sõle tänav",,,,relation
 Sõlme,,,,way
 Sõmera,,,,way
 "Sompa tee",,,,way
-Sõnajala,,,,way
+"Sõnajala tänav",,,,relation
 Soo,,,,way
 Soodi,,,,way
 Söödi,,,,way
@@ -1263,64 +1314,66 @@ Söödi,,,,way
 "Soolahe tee",,,,way
 Soone,,,,way
 Sooranna,,,,way
-Sõõru,,,,way
+"Sõõru tänav",,,,relation
 Sooviku,,,,way
 Soovildiku,,,,way
 "Soovõha tee",,,,way
-"Sõpruse pst",,,,way
-Sõstra,,,,way
-Sõstramäe,,,,way
-"Sõudebaasi tee",,,,way
-Spordi,,,,way
-Staadioni,,,,way
-Staapli,,,,way
+"Sõpruse puiestee",,,,relation
+"Sõstra tänav",,,,relation
+"Sõstramäe tänav",,,,relation
+"Sõudebaasi tee",,,,relation
+"Spordi tänav",,,,relation
+"Staadioni tänav",,,,relation
+"Staapli tänav",,,,relation
 "Stalkeri käik",,,,way
 Sügise,,,,way
-"Suislepa tee",,,,way
+"Suislepa tee",,,,relation
 Suitsu,,,,way
 "Suitsu põik",,,,way
 Sule,,,,way
 Sulevi,,,,way
-Sulevimägi,,,,way
+Sulevimägi,,,,relation
 Sumba,,,,way
-"Supluse pst",,,,way
+"Supluse puiestee",,,,relation
 Süsta,,,,way
-"Suur Rannavärav",,,,way
-Suur-Ameerika,,,,way
-Suur-Karja,,,,way
-Suur-Kloostri,,,,way
+"Suur Rannavärav",,,,relation
+"Suur-Ameerika tänav",,,,relation
+"Suur-Karja tänav",,,,relation
+"Suur-Kloostri tänav",,,,relation
 Suur-Laagri,,,,way
-Suur-Männiku,,,,way
+"Suur-Männiku tänav",,,,relation
 Suur-Paala,,,,way
-Suur-Patarei,,,,way
-Suur-Sõjamäe,,,,way
+"Suur-Paala tänav",,,,relation
+"Suur-Patarei tänav",,,,relation
 "Suur-Sõjamäe põik",,,,way
+"Suur-Sõjamäe tänav",,,,relation
 Suurekivi,,,,way
 Suurevälja,,,,way
-Suurtüki,,,,way
-Suusa,,,,way
-Suve,,,,way
-Suvila,,,,way
-Taara,,,,way
+"Suurtüki tänav",,,,relation
+"Suusa tänav",,,,relation
+"Suve tänav",,,,relation
+"Suvila tänav",,,,relation
+"Taara tänav",,,,relation
 Taela,,,,way
-Taevakivi,,,,way
+"Taevakivi tänav",,,,relation
 "Tagakäära tee",,,,way
 Tagala,,,,way
-Tähe,,,,way
-"Tähesaju tee",,,,way
-Tähetorni,,,,way
+"Tähe tänav",,,,relation
+"Tähesaju tee",,,,relation+way
+"Tähetorni tänav",,,,relation
 Tähistaeva,,,,way
-Taime,,,,way
+"Taime tänav",,,,relation
 Tala,,,,way
 Talli,,,,way
 "Tallinn — Lagedi",,,,way
 Tallinna,,,,way
 "Tallinna ringtee",,,,way
 Taludevahe,,,,way
+"Taludevahe tänav",,,,relation
 Talve,,,,way
 Talviku,,,,way
 Tambeti,,,,way
-Tamme,,,,way
+"Tamme tänav",,,,relation
 "Tammede pst",,,,way
 Tammepärja,,,,way
 Tammetõru,,,,way
@@ -1330,75 +1383,83 @@ Tanuma,,,,way
 Tapri,,,,way
 Tare,,,,way
 Tarja,,,,way
-Tarna,,,,way
+"Tarna tänav",,,,relation
+"Tartu maantee",,,,relation
 "Tartu mnt",,,,way
 Tasandi,,,,way
 "Tasuja pst",,,,way
 Tatari,,,,way
-Teaduspargi,,,,way
-"Teatri väljak",,,,way
+"Tatari tänav",,,,relation
+"Teaduspargi tänav",,,,relation
+"Teatri väljak",,,,relation+way
 Tedre,,,,way
-"Tedre põik",,,,way
+"Tedre põik",,,,relation
+"Tedre tänav",,,,relation
 Tedrepere,,,,way
 "Teelehe tee",,,,way
 Tehnika,,,,way
+"Tehnika tänav",,,,relation
 Teisepere,,,,way
 Teivi,,,,way
-Telliskivi,,,,way
+"Telliskivi tänav",,,,relation
 Tendri,,,,way
-Terase,,,,way
+"Terase tänav",,,,relation
 Tervise,,,,way
-Tihase,,,,way
-Tihniku,,,,way
-Tiigi,,,,way
+"Tervise tänav",,,,relation
+"Tihase tänav",,,,relation
+"Tihniku tänav",,,,relation
+"Tiigi tänav",,,,relation
 Tiiru,,,,way
 Tiiu,,,,way
-Tiiva,,,,way
+"Tiiu tänav",,,,relation
+"Tiiva tänav",,,,relation
 Tikutaja,,,,way
 Tildri,,,,way
 Timuti,,,,way
 Tina,,,,way
 Tindi,,,,way
 "Tipi tee",,,,way
-Tirgu,,,,way
-"Tiskre tee",,,,way
-Tiskrevälja,,,,way
+"Tirgu tänav",,,,relation
+"Tiskre tee",,,,relation
+"Tiskrevälja tänav",,,,relation
 Tohu,,,,way
-Tõivu,,,,way
+"Tõivu tänav",,,,relation
 Tolli,,,,way
-Tõllu,,,,way
-"Tolmuka tee",,,,way
-Tondi,,,,way
+"Tõllu tänav",,,,relation
+"Tolmuka tee",,,,relation
+"Tondi tänav",,,,relation
 Tondiraba,,,,way
 "Tondiraba tunnel",,,,way
-Tõnismägi,,,,way
+Tõnismägi,,,,relation+way
 Tõnu,,,,way
-Töökoja,,,,way
-Toom-Kooli,,,,way
-Toom-Kuninga,,,,way
+"Töökoja tänav",,,,relation
+"Toom-Kooli tänav",,,,relation
+"Toom-Kuninga tänav",,,,relation
 Toom-Rüütli,,,,way
 Tooma,,,,way
-Toomapere,,,,way
+"Toomapere tänav",,,,relation
 "Toome põik",,,,way
-"Toome pst",,,,way
-"Toomiku tee",,,,way
-Toominga,,,,way
-Toompea,,,,relation+way
-Toompuiestee,,,,way
-"Toonela tee",,,,way
-Tööstuse,,,,way
+"Toome puiestee",,,,relation
+"Toomiku tee",,,,relation
+"Toominga tänav",,,,relation
+Toompea,,,,relation
+"Toompea tänav",,,,relation
+Toompuiestee,,,,relation
+"Toonela tee",,,,relation
+"Tööstuse tänav",,,,relation
 Topi,,,,way
 Tormi,,,,way
 Torni,,,,way
+"Tornimäe tänav",,,,relation
 Tõru,,,,way
-"Torupilli ots",,,,way
-Tõrviku,,,,way
+"Torupilli ots",,,,relation
+"Tõrviku tänav",,,,relation
 "Tõusu tee",,,,way
 Trahteri,,,,way
-Treiali,,,,way
-Trepi,,,,way
+"Treiali tänav",,,,relation
+"Trepi tänav",,,,relation
 Trummi,,,,way
-"Trummi põik",,,,way
+"Trummi põik",,,,relation
 Truubi,,,,way
 Tuha,,,,way
 "Tuhkpuu tee",,,,way
@@ -1407,241 +1468,255 @@ Tuisu,,,,way
 Tuki,,,,way
 Tulbi,,,,way
 Tulekivi,,,,way
-Tuleraua,,,,way
+"Tuleraua tänav",,,,relation
 Tuletorni,,,,way
 Tulika,,,,way
-"Tulika põik",,,,way
+"Tulika põik",,,,relation
+"Tulika tänav",,,,relation
 Tulimulla,,,,way
-Tuluste,,,,way
+"Tuluste tänav",,,,relation
 Tulva,,,,way
-Tungla,,,,way
+"Tungla tänav",,,,relation
 "Tupsi tee",,,,way
-Turba,,,,way
+"Turba tänav",,,,relation
 Turbasambla,,,,way
 Türi,,,,way
 Tursa,,,,way
-Turu,,,,way
-"Turu plats",,,,way
+"Turu plats",,,,relation
+"Turu tänav",,,,relation
 Turvise,,,,way
 Tuudi,,,,way
 Tuukri,,,,way
 "Tuukri põik",,,,way
-"Tuule tee",,,,way
+"Tuukri tänav",,,,relation
+"Tuule tee",,,,relation
 Tuulemaa,,,,way
+"Tuulemaa tänav",,,,relation
 Tuulemäe,,,,way
 Tuulemurru,,,,way
 Tuulenurga,,,,way
-Tuuleveski,,,,way
+"Tuuleveski tänav",,,,relation
 "Tuuliku tee",,,,way
 Tüve,,,,way
+"Tüve tänav",,,,relation
 Tuvi,,,,way
 "Ubalehe tee",,,,way
-Udeselja,,,,way
 Ugala,,,,way
 Uime,,,,way
-Ujuki,,,,way
-Uku,,,,way
-Ülase,,,,way
-"Ülemiste tee",,,,way
+"Ujuki tänav",,,,relation
+"Uku tänav",,,,relation
+"Ülase tänav",,,,relation
+"Ülemiste tee",,,,relation+way
 "Üliõpilaste tee",,,,way
-Umboja,,,,way
-Ümera,,,,way
+"Umboja tänav",,,,relation
+"Ümera tänav",,,,relation
 Unistuse,,,,way
-Unna,,,,way
+"Unna tänav",,,,relation
 Urva,,,,way
-"Ussilaka tee",,,,way
-"Ussimäe tee",,,,way
+"Ussilaka tee",,,,relation
+"Ussimäe tee",,,,relation
 "Uue Maailma",,,,way
 Uuepere,,,,way
 Uueristi,,,,way
 Uus,,,,way
 Uus-Kalamaja,,,,way
-Uus-Maleva,,,,way
-Uus-Sadama,,,,way
+"Uus-Kalamaja tänav",,,,relation
+"Uus-Maleva tänav",,,,relation
+"Uus-Sadama tänav",,,,relation
 Uus-Tatari,,,,way
 Uuslinna,,,,way
-Uustalu,,,,way
-Vaablase,,,,way
+"Uustalu tänav",,,,relation
+"Vaablase tänav",,,,relation
 Vaagi,,,,way
 Vaalu,,,,way
-Vääna,,,,way
-Vaari,,,,way
+"Vääna tänav",,,,relation
+"Vaari tänav",,,,relation
 Vaarika,,,,way
 "Vaate põik",,,,way
-"Vaate tee",,,,way
+"Vaate tee",,,,relation
 "Vabaduse pst",,,,way
+"Vabaduse puiestee",,,,relation
 "Vabaduse väljak",,,,way
-"Vabaõhukooli tee",,,,way
-"Vabaõhumuuseumi tee",,,,way
+"Vabaõhukooli tee",,,,relation
+"Vabaõhumuuseumi tee",,,,relation
 "Vabarna tee",,,,way
 Vabe,,,,way
 Vabriku,,,,way
-Vahe,,,,way
-Vahepere,,,,way
+"Vahe tänav",,,,relation
+"Vahepere tänav",,,,relation
 Vähi,,,,way
 Vahtra,,,,way
 "Vahtramäe tee",,,,way
-"Vahtriku tee",,,,way
-"Vahulille tee",,,,way
-Vahuri,,,,way
+"Vahtriku tee",,,,relation
+"Vahulille tee",,,,relation
+"Vahuri tänav",,,,relation
 Vaigu,,,,way
 Väike,,,,way
 "Väike Rannavärav",,,,way
-Väike-Ameerika,,,,way
+"Väike-Ameerika tänav",,,,relation
 Väike-Karja,,,,way
 Väike-Kloostri,,,,way
 Väike-Laagri,,,,way
-Väike-Männiku,,,,way
+"Väike-Männiku tänav",,,,relation
 Väike-Paala,,,,way
 Väike-Pääsukese,,,,way
 Väike-Patarei,,,,way
-Väike-Sõjamäe,,,,way
-"Väikese Illimari",,,,way
+"Väike-Sõjamäe tänav",,,,relation
+"Väikese Illimari tänav",,,,relation
 Vaikne,,,,way
 Vaimu,,,,way
-"Väina tee",,,,way
+"Väina tee",,,,relation
 Vainu,,,,way
 Vainutalu,,,,way
 "Vainutalu põik",,,,way
-Valdeku,,,,way
-Valge,,,,way
+"Valdeku tänav",,,,relation
+"Valge tänav",,,,relation
 Valgevase,,,,way
-Välgu,,,,way
+"Välgu tänav",,,,relation
 Valguse,,,,way
-Valguta,,,,way
+"Valguta tänav",,,,relation
 Välja,,,,way
-Valli,,,,way
-Valukoja,,,,way
-Valve,,,,way
+"Valli tänav",,,,relation
+"Valukoja tänav",,,,relation
+"Valve tänav",,,,relation
 Vambola,,,,way
 "Vana turg",,,,way
 "Vana-Järveküla tee",,,,way
-Vana-Kalamaja,,,,way
+"Vana-Kalamaja tänav",,,,relation
 Vana-Keldrimäe,,,,way
 Vana-Kuuli,,,,way
-Vana-Liivamäe,,,,way
+"Vana-Kuuli tänav",,,,relation
+"Vana-Liivamäe tänav",,,,relation
 Vana-Lõuna,,,,way
+"Vana-Lõuna tänav",,,,relation
 "Vana-Merivälja tee",,,,way
-Vana-Mustamäe,,,,way
-"Vana-Pärnu mnt",,,,way
+"Vana-Mustamäe tänav",,,,relation
+"Vana-Pärnu maantee",,,,relation
 Vana-Posti,,,,way
-"Vana-Rannamõisa tee",,,,way
+"Vana-Rannamõisa tee",,,,relation+way
 "Vana-Tartu mnt",,,,way
 Vana-Umboja,,,,way
 Vana-Veerenni,,,,way
-Vana-Viru,,,,way
+"Vana-Veerenni tänav",,,,relation
+"Vana-Viru tänav",,,,relation
 Vanakuu,,,,way
 "Vanaturu kael",,,,way
 Vanemuise,,,,way
 "Vanemuise põik",,,,way
-Vaniku,,,,way
-"Väo tee",,,,way
+"Vaniku tänav",,,,relation
+"Väo tee",,,,relation
 Väomurru,,,,way
-Värava,,,,way
+"Värava tänav",,,,relation
 Varbola,,,,way
-Varese,,,,way
 "Varese põik",,,,way
-"Variku tee",,,,way
-"Varju tee",,,,way
+"Varese tänav",,,,relation
+"Variku tee",,,,relation
+"Varju tee",,,,relation
 "Varjulille tee",,,,way
 Varraku,,,,way
-"Varraku sild",,,,way
+"Varraku tänav",,,,relation
 Varre,,,,way
-Varsaallika,,,,way
-Värsi,,,,way
-Värvi,,,,way
+"Varsaallika tänav",,,,relation
+"Värsi tänav",,,,relation
+"Värvi tänav",,,,relation
 Vasara,,,,way
-Vase,,,,way
+"Vase tänav",,,,relation
 Västra,,,,way
-Västriku,,,,way
+"Västriku tänav",,,,relation
 Vati,,,,way
 Vedru,,,,way
-Veduri,,,,way
+"Veduri tänav",,,,relation
 Vee,,,,way
-Veerenni,,,,way
 "Veerenni põik",,,,way
+"Veerenni tänav",,,,relation
 "Veerenni tunnel",,,,way
 "Veeriku tee",,,,way
 Veerise,,,,way
+"Veerise tänav",,,,relation
 Veerme,,,,way
-Veetorni,,,,way
-Vene,,,,way
+"Veetorni tänav",,,,relation
+"Vene tänav",,,,relation
 "Veneküla kogujatee",,,,way
 "Veneküla tee",,,,way
 Versta,,,,way
 Vesikaare,,,,way
 Vesikupu,,,,way
 Vesilennuki,,,,way
+"Vesilennuki tänav",,,,relation
 Vesioina,,,,way
 Vesipapi,,,,way
-Vesiravila,,,,way
+"Vesiravila tänav",,,,relation
 Vesivärava,,,,way
+"Vesivärava tänav",,,,relation
 Vesiveski,,,,way
 Veski,,,,way
 Veskilise,,,,way
 Veskimäe,,,,way
 Veskimetsa,,,,way
 Veskiposti,,,,way
-Vesse,,,,way
-"Vesse põik",,,,way
+"Veskiposti tänav",,,,relation
+"Vesse põik",,,,relation
+"Vesse tänav",,,,relation
 Vete,,,,way
-Viadukti,,,,way
-Vibu,,,,way
-Videviku,,,,way
+"Viadukti tänav",,,,relation
+"Vibu tänav",,,,relation
+"Videviku tänav",,,,relation
 Vigla,,,,way
 Vihitaja,,,,way
-Vihu,,,,way
+"Vihu tänav",,,,relation
 Vihuri,,,,way
-Viidika,,,,way
-Viige,,,,way
+"Viidika tänav",,,,relation
+"Viige tänav",,,,relation
 "Viimsi põik",,,,way
 "Viimsi tee",,,,way
 "Viirpuu tee",,,,way
 Viisi,,,,way
-Vikerkaare,,,,way
+"Vikerkaare tänav",,,,relation
 Vikerlase,,,,way
-Vile,,,,way
+"Vikerlase tänav",,,,relation
+"Vile tänav",,,,relation
 Vilisuu,,,,way
+"Viljandi maantee",,,,relation
 "Viljandi mnt",,,,way
 "Viljandi mnt kergliiklustee",,,,way
-Villardi,,,,way
-"Villem Reimani",,,,way
-Villkäpa,,,,way
+"Villardi tänav",,,,relation
+"Villkäpa tänav",,,,relation
 Villpea,,,,way
 "Vilu tee",,,,way
-Vimma,,,,way
-Vindi,,,,way
+"Vimma tänav",,,,relation
+"Vindi tänav",,,,relation
 Vineeri,,,,way
+"Vineeri tänav",,,,relation
+"Vinkli tänav",,,,relation
 Virbi,,,,way
 Virmalise,,,,way
-Viru,,,,way
-"Viru väljak",,,,way
-Virve,,,,way
-Visase,,,,way
+"Viru tänav",,,,relation
+"Viru väljak",,,,relation
+"Virve tänav",,,,relation
+"Visase tänav",,,,relation
 Vismeistri,,,,way
 Viu,,,,way
-Võidu,,,,way
 "Võidu põik",,,,way
-Võidujooksu,,,,way
-"Võidujooksu sild",,,,way
-Võistluse,,,,way
+"Võidu tänav",,,,relation
+"Võidujooksu tänav",,,,relation
+"Võistluse tänav",,,,relation
 Volmre,,,,way
 Volta,,,,way
 Võlvi,,,,way
 Voo,,,,way
 Voolu,,,,way
-Vööri,,,,way
-Voorimehe,,,,way
+"Vööri tänav",,,,relation
+"Voorimehe tänav",,,,relation
 "Võra tee",,,,way
 Võrgu,,,,way
 Võrgukivi,,,,way
-Vormsi,,,,way
+"Vormsi tänav",,,,relation
 Võrse,,,,way
 Võrsiku,,,,way
-Võru,,,,way
-"Võsa tee",,,,way
+"Võru tänav",,,,relation
+"Võsa tee",,,,relation
 Võsara,,,,way
 Võsu,,,,way
-Võtme,,,,way
-Vuti,,,,way
-Wismari,,,,way
+"Võtme tänav",,,,relation
+"Vuti tänav",,,,relation
+"Wismari tänav",,,,relation
