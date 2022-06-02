@@ -21,7 +21,6 @@ Täpiku,wikidata,,Q286622,way
 "Udeselja tänav",wikidata,,Q7706097,relation
 Uneliblika,wikidata,,Q1544777,way
 Vaksiku,wikidata,,Q45559,way
-"1. liin",,,,relation
 "3. liin",,,,way
 "4. liin",,,,relation
 "5. liin",,,,way
@@ -35,7 +34,7 @@ Aaslina,,,,way
 Aate,,,,way
 Abaja,,,,way
 Abara,,,,way
-Ädala,,,,way
+"Ädala tänav",,,,relation
 Admiralisild,,,,way
 Adra,,,,way
 Aedvere,,,,way
@@ -171,6 +170,7 @@ Heinamaa,,,,way
 Heinavälja,,,,way
 "Heki tee",,,,relation
 Helbe,,,,way
+"Heli tänav",,,,relation
 "Helme tänav",,,,relation
 "Helmiku põik",,,,way
 "Helmiku tee",,,,relation
@@ -430,6 +430,7 @@ Kivimurru,,,,way
 "Kivimurru tänav",,,,relation
 Kivinuka,,,,way
 Kivipere,,,,way
+Kiviräha,,,,way
 "Kiviranna tee",,,,way
 Kiviriku,,,,way
 "Kivisilla tänav",,,,relation
@@ -634,6 +635,7 @@ Liimi,,,,way
 "Liinivahe tänav",,,,relation
 "Liipri tänav",,,,relation
 "Liiva tänav",,,,relation
+Liivalaia,,,,way
 "Liivalaia tänav",,,,relation
 Liivaluite,,,,way
 "Liivamäe tänav",,,,relation
@@ -706,7 +708,7 @@ Luste,,,,way
 "Maakri tänav",,,,relation
 Maarjaheina,,,,way
 "Maarjaheina tänav",,,,relation
-Maarjamäe,,,,way
+"Maarjamäe tänav",,,,relation
 Maasika,,,,way
 "Madala tänav",,,,relation
 Madalmaa,,,,way
@@ -1042,7 +1044,7 @@ Pilviku,,,,way
 Pinu,,,,way
 "Pirita Terviserajad",,,,way
 "Pirita promenaad",,,,way
-"Pirita tee",,,,relation+way
+"Pirita tee",,,,relation
 Pirni,,,,way
 Plaasi,,,,way
 "Planeedi tänav",,,,relation
@@ -1119,6 +1121,7 @@ Rähni,,,,way
 Raie,,,,way
 "Räime tänav",,,,relation
 Räitsaka,,,,way
+Raja,,,,way
 "Raja tänav",,,,relation
 "Rajamäe tee",,,,way
 Rajametsa,,,,way
@@ -1270,6 +1273,7 @@ Siduri,,,,way
 "Sihi tänav",,,,relation
 Siia,,,,way
 "Siidisaba tänav",,,,relation
+Siili,,,,way
 "Siili tänav",,,,relation
 Siire,,,,way
 Sikupilli,,,,way
@@ -1285,6 +1289,7 @@ Silmu,,,,way
 Sinika,,,,way
 "Siniladva tee",,,,way
 Sinilille,,,,way
+Sinimäe,,,,way
 "Sinimäe tänav",,,,relation
 Sininuku,,,,way
 Sinirebase,,,,way
@@ -1361,7 +1366,7 @@ Tagala,,,,way
 "Tähe tänav",,,,relation
 "Tähesaju tee",,,,relation+way
 "Tähetorni tänav",,,,relation
-Tähistaeva,,,,way
+"Tähistaeva tänav",,,,relation
 "Taime tänav",,,,relation
 Tala,,,,way
 Talli,,,,way
@@ -1716,7 +1721,7 @@ Võrsiku,,,,way
 "Võru tänav",,,,relation
 "Võsa tee",,,,relation
 Võsara,,,,way
-Võsu,,,,way
+"Võsu tänav",,,,relation
 "Võtme tänav",,,,relation
 "Vuti tänav",,,,relation
 "Wismari tänav",,,,relation
