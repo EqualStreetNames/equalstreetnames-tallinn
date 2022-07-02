@@ -561,6 +561,7 @@ Laanelille,,,,way
 "Laaniku tänav",,,,relation
 "Läätspuu tee",,,,way
 "Laboratooriumi tänav",,,,relation
+Laeva,,,,way
 "Laeva tänav",,,,relation
 "Laevastiku tänav",,,,relation
 "Lagedi tee",,,,relation+way
@@ -632,6 +633,7 @@ Liblika,,,,way
 "Liikuri tänav",,,,relation
 "Liilia tee",,,,way
 Liimi,,,,way
+Liinivahe,,,,way
 "Liinivahe tänav",,,,relation
 "Liipri tänav",,,,relation
 "Liiva tänav",,,,relation
@@ -786,6 +788,7 @@ Merihärja,,,,way
 "Merimetsa tee",,,,relation
 "Merimetsa terviserada",,,,way
 "Merinõela tänav",,,,relation
+Merirahu,,,,way
 "Merirahu tänav",,,,relation
 Meriski,,,,way
 "Merivälja tee",,,,relation
@@ -1016,7 +1019,6 @@ Pesa,,,,way
 Pihlamarja,,,,way
 "Pihlametsa tee",,,,relation
 Piibelehe,,,,way
-Piibri,,,,way
 "Piibri tänav",,,,relation
 "Piima tänav",,,,relation
 Piimamehe,,,,way
@@ -1280,7 +1282,6 @@ Sikupilli,,,,way
 "Sikuti tänav",,,,relation
 "Silde tänav",,,,relation
 "Silgu tänav",,,,relation
-Silikaltsiidi,,,,way
 "Silikaltsiidi tänav",,,,relation
 "Silla tänav",,,,relation
 Silluse,,,,way
@@ -1350,6 +1351,7 @@ Suur-Laagri,,,,way
 Suur-Paala,,,,way
 "Suur-Paala tänav",,,,relation
 "Suur-Patarei tänav",,,,relation
+Suur-Sõjamäe,,,,way
 "Suur-Sõjamäe põik",,,,way
 "Suur-Sõjamäe tänav",,,,relation
 Suurekivi,,,,way
@@ -1566,6 +1568,7 @@ Väike-Laagri,,,,way
 Väike-Paala,,,,way
 Väike-Pääsukese,,,,way
 Väike-Patarei,,,,way
+Väike-Sõjamäe,,,,way
 "Väike-Sõjamäe tänav",,,,relation
 "Väikese Illimari tänav",,,,relation
 Vaikne,,,,way
