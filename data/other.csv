@@ -1,7 +1,7 @@
 name,source,gender,wikidata,type
 "Äigrumäe tee",wikidata,,Q2192129,relation+way
 "Juhan Kunderi põik",wikidata,,Q12365487,relation
-"Kalevipoja põik",wikidata,,Q3812585,relation
+"Kalevipoja põik",wikidata,,Q3812585,relation+way
 Kannustiiva,wikidata,,Q922808,way
 "Katariina käik",wikidata,,Q3860574,relation
 Kedriku,wikidata,,Q857997,way
@@ -297,6 +297,7 @@ Kaja,,,,way
 "Kakumäe tee",,,,relation
 Kaladi,,,,way
 "Kalamehe tee",,,,relation
+"Kalaranna promenaad",,,,way
 "Kalaranna tänav",,,,relation
 "Kalasadama tänav",,,,relation
 "Kalavälja tee",,,,way
@@ -732,6 +733,7 @@ Mägra,,,,way
 "Mähe tee",,,,way
 "Mähe-Kaasiku tee",,,,relation
 "Mahla tänav",,,,relation
+Mahtra,,,,way
 "Mahtra tänav",,,,relation
 Mai,,,,way
 "Mai põik",,,,way
@@ -949,6 +951,7 @@ Padu,,,,way
 Pae,,,,way
 "Pae sild",,,,way
 "Pae tänav",,,,relation
+Paekaare,,,,way
 "Paekaare tänav",,,,relation
 Paekalda,,,,way
 Paekivi,,,,way
@@ -1176,7 +1179,6 @@ Riisika,,,,way
 Ristiku,,,,way
 "Ristiku põik",,,,way
 "Ristiku tänav",,,,relation
-Rivi,,,,way
 "Rivi tänav",,,,relation
 "Rocca al Mare rannapromenaad",,,,way
 "Roheline aas",,,,relation
@@ -1410,6 +1412,7 @@ Teisepere,,,,way
 Teivi,,,,way
 "Telliskivi tänav",,,,relation
 Tendri,,,,way
+Tera,,,,way
 "Terase tänav",,,,relation
 Tervise,,,,way
 "Tervise tänav",,,,relation
@@ -1430,6 +1433,7 @@ Tindi,,,,way
 "Tiskre tee",,,,relation
 "Tiskrevälja tänav",,,,relation
 Tohu,,,,way
+Tõivu,,,,way
 "Tõivu tänav",,,,relation
 Tolli,,,,way
 "Tõllu tänav",,,,relation
@@ -1556,6 +1560,7 @@ Vahtra,,,,way
 "Vahtramäe tee",,,,way
 "Vahtriku tee",,,,relation
 "Vahulille tee",,,,relation
+Vahuri,,,,way
 "Vahuri tänav",,,,relation
 Vaigu,,,,way
 Väike,,,,way
