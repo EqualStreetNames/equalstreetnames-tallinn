@@ -232,7 +232,7 @@ Jahu,,,,way
 Jakobi,,,,way
 Jalaka,,,,way
 Jalami,,,,way
-Jalgpalli,,,,way
+"Jalgpalli tänav",,,,relation
 Järve,,,,way
 "Järve tänav",,,,relation
 "Järve terviserada",,,,way
@@ -294,7 +294,7 @@ Kaisla,,,,way
 Kaitse,,,,way
 Kaja,,,,way
 "Kajaka tänav",,,,relation
-"Kakumäe tee",,,,relation
+"Kakumäe tee",,,,relation+way
 Kaladi,,,,way
 "Kalamehe tee",,,,relation
 "Kalaranna promenaad",,,,way
@@ -339,7 +339,7 @@ Käopoja,,,,way
 "Karjamaa tänav",,,,relation
 "Karjametsa tee",,,,way
 Karjatse,,,,way
-Karjavälja,,,,way
+"Karjavärava tänav",,,,relation
 Kärje,,,,way
 "Karnapi tee",,,,way
 Kärneri,,,,way
@@ -470,7 +470,6 @@ Kopli,,,,way
 "Kopliranna tänav",,,,relation
 "Korese tänav",,,,relation
 "Kõrge tänav",,,,relation
-Kõrgepinge,,,,way
 "Kõrgepinge tänav",,,,relation
 Korgi,,,,way
 "Kõrkja tee",,,,relation
@@ -478,6 +477,7 @@ Kõrre,,,,way
 "Kose põik",,,,way
 "Kose tee",,,,relation+way
 "Kosemetsa tänav",,,,relation
+Kosetee,,,,way
 "Koskla tänav",,,,relation
 Kotermaa,,,,way
 Kotka,,,,way
@@ -505,7 +505,7 @@ Krüüsli,,,,way
 "Kudu tänav",,,,relation
 Kuhja,,,,way
 Kuiv,,,,way
-Kuke,,,,way
+"Kuke tänav",,,,relation
 Kukesaba,,,,way
 "Kuklase tänav",,,,relation
 "Kukulinnu tänav",,,,relation
@@ -562,7 +562,6 @@ Laanelille,,,,way
 "Laaniku tänav",,,,relation
 "Läätspuu tee",,,,way
 "Laboratooriumi tänav",,,,relation
-Laeva,,,,way
 "Laeva tänav",,,,relation
 "Laevastiku tänav",,,,relation
 "Lagedi tee",,,,relation+way
@@ -592,6 +591,7 @@ Lauka,,,,way
 "Lauliku tänav",,,,relation
 Laulu,,,,way
 "Laulu tänav",,,,relation
+Laulupeo,,,,way
 "Laulupeo tänav",,,,relation
 "Lauri tee",,,,relation
 Laurimaa,,,,way
@@ -602,6 +602,7 @@ Leediku,,,,way
 "Leedri tee",,,,way
 Leegi,,,,way
 "Leesika tänav",,,,relation
+Leete,,,,way
 "Leete tänav",,,,relation
 Leevikese,,,,way
 "Lehe tänav",,,,relation
@@ -620,7 +621,7 @@ Lemle,,,,way
 "Lemmiku põik",,,,relation
 "Lemmiku tänav",,,,relation
 "Lennujaama tee",,,,relation+way
-Lennuki,,,,way
+"Lennuki tänav",,,,relation
 "Lennusadama tänav",,,,relation
 Lennuse,,,,way
 Lepa,,,,way
@@ -647,6 +648,7 @@ Liivametsa,,,,way
 "Liivaranna tee",,,,relation
 Liiviku,,,,way
 Lille,,,,way
+"Lille tänav",,,,relation
 "Lilleherne tee",,,,way
 Lillevälja,,,,way
 Lina,,,,way
@@ -718,7 +720,7 @@ Madalmaa,,,,way
 Madara,,,,way
 "Madara tänav",,,,relation
 "Mäe tänav",,,,relation
-Mäealuse,,,,way
+"Mäealuse tänav",,,,relation
 Mäekalda,,,,way
 "Mäekalda tänav",,,,relation
 "Mäekõrtsi tänav",,,,relation
@@ -746,7 +748,7 @@ Majaka,,,,way
 "Majaka põik",,,,relation+way
 "Majaka tänav",,,,relation
 Male,,,,way
-"Maleva põik",,,,way
+"Maleva põik",,,,relation
 "Maleva tänav",,,,relation
 Malmi,,,,way
 Maneeži,,,,way
@@ -861,8 +863,9 @@ Naeri,,,,way
 "Narva mnt",,,,way
 "Näsiniine tee",,,,relation
 "Nata tänav",,,,relation
-Neeme,,,,way
-Neemiku,,,,way
+"Neeme põik",,,,relation
+"Neeme tänav",,,,relation
+"Neemiku tänav",,,,relation
 "Neiuvaiba tee",,,,way
 "Nelgi tänav",,,,relation
 "Nepi tänav",,,,relation
@@ -977,7 +980,7 @@ Pakase,,,,way
 "Paldiski maantee",,,,relation
 "Paldiski mnt",,,,way
 Paljandi,,,,way
-"Paljassaare põik",,,,relation
+"Paljassaare põik",,,,relation+way
 "Paljassaare tee",,,,relation+way
 Pallasti,,,,way
 "Pallasti tänav",,,,relation
@@ -1021,7 +1024,7 @@ Pesa,,,,way
 "Pihlaka tänav",,,,relation
 Pihlamarja,,,,way
 "Pihlametsa tee",,,,relation
-Piibelehe,,,,way
+"Piibelehe tänav",,,,relation
 "Piibri tänav",,,,relation
 "Piima tänav",,,,relation
 Piimamehe,,,,way
@@ -1336,8 +1339,8 @@ Soovildiku,,,,way
 "Stalkeri käik",,,,way
 Sügise,,,,way
 "Suislepa tee",,,,relation
-Suitsu,,,,way
 "Suitsu põik",,,,way
+"Suitsu tänav",,,,relation
 Sule,,,,way
 Sulevi,,,,way
 Sulevimägi,,,,relation
@@ -1424,7 +1427,7 @@ Tiiu,,,,way
 "Tiiu tänav",,,,relation
 "Tiiva tänav",,,,relation
 Tikutaja,,,,way
-Tildri,,,,way
+"Tildri tänav",,,,relation
 Timuti,,,,way
 Tina,,,,way
 Tindi,,,,way
@@ -1640,7 +1643,7 @@ Vati,,,,way
 Vedru,,,,way
 "Veduri tänav",,,,relation
 Vee,,,,way
-"Veerenni põik",,,,way
+"Veerenni põik",,,,relation
 "Veerenni tänav",,,,relation
 "Veerenni tunnel",,,,way
 "Veeriku tee",,,,way
@@ -1665,7 +1668,7 @@ Vesiveski,,,,way
 Veski,,,,way
 Veskilise,,,,way
 Veskimäe,,,,way
-Veskimetsa,,,,way
+"Veskimetsa tänav",,,,relation
 Veskiposti,,,,way
 "Veskiposti tänav",,,,relation
 "Vesse põik",,,,relation
