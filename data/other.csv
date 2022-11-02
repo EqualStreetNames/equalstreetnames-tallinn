@@ -45,8 +45,10 @@ Ahju,,,,way
 Ahtri,,,,way
 "Ahtri tänav",,,,relation
 "Ahvena tänav",,,,relation
+Aia,,,,way
 "Aia tänav",,,,relation
 "Aia tee",,,,way
+Aiandi,,,,way
 "Aiandi tänav",,,,relation
 "Aianduse tee",,,,relation
 Aida,,,,way
@@ -120,6 +122,7 @@ Energia,,,,way
 "Estonia puiestee",,,,relation
 Filmi,,,,way
 "Filtri tee",,,,relation
+Forelli,,,,way
 "Forelli tänav",,,,relation
 "Gaasi tänav",,,,relation
 Gildi,,,,way
@@ -247,6 +250,7 @@ Jõekalda,,,,way
 Jõemäe,,,,way
 Jõeoti,,,,way
 Jõesaare,,,,way
+"Johann Voldemar Jannseni",,,,way
 Jõhvika,,,,way
 Joone,,,,way
 "Jugapuu põik",,,,relation
@@ -470,6 +474,7 @@ Kopli,,,,way
 "Kopliranna tänav",,,,relation
 "Korese tänav",,,,relation
 "Kõrge tänav",,,,relation
+Kõrgepinge,,,,way
 "Kõrgepinge tänav",,,,relation
 Korgi,,,,way
 "Kõrkja tee",,,,relation
@@ -727,6 +732,7 @@ Mäekalda,,,,way
 Mäeküla,,,,way
 "Mäepealse tänav",,,,relation
 Mäepere,,,,way
+Mäevälja,,,,way
 Magasini,,,,way
 "Magasini tänav",,,,relation
 Magdaleena,,,,way
@@ -843,6 +849,7 @@ Muru,,,,way
 "Mustamäe tee",,,,relation+way
 "Mustasõstra tänav",,,,relation
 Mustika,,,,way
+Mustjõe,,,,way
 "Mustjõe põik",,,,way
 "Mustjõe tänav",,,,relation
 "Mustjuure tänav",,,,relation
@@ -1048,6 +1055,7 @@ Pilliroo,,,,way
 "Pilliroo tänav",,,,relation
 "Pilstickeri trepp",,,,way
 Pilve,,,,way
+Pilvetee,,,,way
 Pilviku,,,,way
 Pinu,,,,way
 "Pirita Terviserajad",,,,way
