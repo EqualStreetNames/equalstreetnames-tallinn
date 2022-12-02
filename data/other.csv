@@ -427,7 +427,7 @@ Kitsas,,,,way
 "Kitseküla tänav",,,,relation
 Kiuru,,,,way
 Kivi,,,,way
-"Kiviaia tee",,,,relation
+"Kiviaia tee",,,,relation+way
 "Kivila tänav",,,,relation
 Kivimäe,,,,way
 "Kivimäe tänav",,,,relation
@@ -1544,6 +1544,7 @@ Uus,,,,way
 Uus-Kalamaja,,,,way
 "Uus-Kalamaja tänav",,,,relation
 "Uus-Maleva tänav",,,,relation
+Uus-Sadama,,,,way
 "Uus-Sadama tänav",,,,relation
 Uus-Tatari,,,,way
 Uuslinna,,,,way
@@ -1744,3 +1745,4 @@ Võsara,,,,way
 "Võtme tänav",,,,relation
 "Vuti tänav",,,,relation
 "Wismari tänav",,,,relation
+"kadaka tee",,,,way
