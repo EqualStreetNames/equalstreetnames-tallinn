@@ -81,7 +81,7 @@ Apteegi,,,,way
 Armatuuri,,,,way
 "Arnika tee",,,,way
 "Artelli tänav",,,,relation
-Aru,,,,way
+"Aru tänav",,,,relation
 "Arukaskede pst",,,,way
 "Asfaldi tänav",,,,relation
 Astangu,,,,way
@@ -93,7 +93,7 @@ Asula,,,,way
 "Asula põik",,,,way
 "Asunduse tänav",,,,relation
 Auli,,,,way
-Auna,,,,way
+"Auna tänav",,,,relation
 "Auru tänav",,,,relation
 "Balti jaama tunnel",,,,way
 "Bastioni käigud",,,,way
@@ -130,8 +130,8 @@ Gildi,,,,way
 Gonsiori,,,,way
 Graniidi,,,,way
 Gümnaasiumi,,,,way
-Haabersti,,,,way
 "Haabersti ring",,,,way
+"Haabersti tänav",,,,relation
 Haava,,,,way
 "Haava tänav",,,,relation
 "Haaviku põik",,,,way
@@ -153,6 +153,7 @@ Hämariku,,,,way
 "Hane tänav",,,,relation
 Hange,,,,way
 Hanijala,,,,way
+Hansu,,,,way
 "Hansu tänav",,,,relation
 Hao,,,,way
 Haraka,,,,way
@@ -232,7 +233,7 @@ Jaaniku,,,,way
 "Jahimehe põik",,,,way
 "Jahimehe tee",,,,way
 Jahu,,,,way
-Jakobi,,,,way
+"Jakobi tänav",,,,relation
 Jalaka,,,,way
 Jalami,,,,way
 "Jalgpalli tänav",,,,relation
@@ -371,6 +372,7 @@ Katleri,,,,way
 "Katleri Dirt Park",,,,way
 "Katusepapi tänav",,,,relation
 Kauba,,,,way
+Kaubamaja,,,,way
 "Kaubamaja tänav",,,,relation
 Kauge,,,,way
 "Kauka tänav",,,,relation
@@ -639,7 +641,7 @@ Lible,,,,way
 Liblika,,,,way
 "Liikuri tänav",,,,relation
 "Liilia tee",,,,way
-Liimi,,,,way
+"Liimi tänav",,,,relation
 Liinivahe,,,,way
 "Liinivahe tänav",,,,relation
 "Liipri tänav",,,,relation
@@ -741,7 +743,6 @@ Mägra,,,,way
 "Mähe tee",,,,way
 "Mähe-Kaasiku tee",,,,relation
 "Mahla tänav",,,,relation
-Mahtra,,,,way
 "Mahtra tänav",,,,relation
 Mai,,,,way
 "Mai põik",,,,way
@@ -832,6 +833,7 @@ Mooni,,,,way
 "Mooni tänav",,,,relation
 Moora,,,,way
 "Moora umbtänav",,,,way
+Mootori,,,,way
 "Mõrra tee",,,,way
 "Moskva pst",,,,way
 Mõtuse,,,,way
@@ -987,7 +989,7 @@ Pakase,,,,way
 "Paldiski maantee",,,,relation
 "Paldiski mnt",,,,way
 Paljandi,,,,way
-"Paljassaare põik",,,,relation+way
+"Paljassaare põik",,,,relation
 "Paljassaare tee",,,,relation+way
 Pallasti,,,,way
 "Pallasti tänav",,,,relation
@@ -1061,7 +1063,7 @@ Pinu,,,,way
 "Pirita Terviserajad",,,,way
 "Pirita promenaad",,,,way
 "Pirita tee",,,,relation
-Pirni,,,,way
+"Pirni tänav",,,,relation
 Plaasi,,,,way
 "Planeedi tänav",,,,relation
 "Plangu tänav",,,,relation
@@ -1073,8 +1075,8 @@ Põhjakaare,,,,way
 Pohla,,,,way
 Pöialpoisi,,,,way
 "Pojengi tee",,,,way
-Põlde,,,,way
 "Põlde põik",,,,way
+"Põlde tänav",,,,relation
 Põldma,,,,way
 "Põldmarja tänav",,,,relation
 Põlendiku,,,,way
@@ -1306,7 +1308,7 @@ Sinilille,,,,way
 Sinimäe,,,,way
 "Sinimäe tänav",,,,relation
 Sininuku,,,,way
-Sinirebase,,,,way
+"Sinirebase tänav",,,,relation
 Sinitiiva,,,,way
 Sipelga,,,,way
 Sirbi,,,,way
@@ -1398,10 +1400,9 @@ Tambeti,,,,way
 Tammepärja,,,,way
 Tammetõru,,,,way
 Tammiku,,,,way
-"Tammoja singel",,,,way
 Tanuma,,,,way
 Tapri,,,,way
-Tare,,,,way
+"Tare tänav",,,,relation
 Tarja,,,,way
 "Tarna tänav",,,,relation
 "Tartu maantee",,,,relation
@@ -1442,6 +1443,7 @@ Tindi,,,,way
 "Tipi tee",,,,way
 "Tirgu tänav",,,,relation
 "Tiskre tee",,,,relation
+Tiskrevälja,,,,way
 "Tiskrevälja tänav",,,,relation
 Tohu,,,,way
 Tõivu,,,,way
@@ -1547,6 +1549,7 @@ Uus-Kalamaja,,,,way
 Uus-Sadama,,,,way
 "Uus-Sadama tänav",,,,relation
 Uus-Tatari,,,,way
+Uus-Volta,,,,way
 Uuslinna,,,,way
 "Uustalu tänav",,,,relation
 "Vaablase tänav",,,,relation
@@ -1669,7 +1672,7 @@ Vesikupu,,,,way
 Vesilennuki,,,,way
 "Vesilennuki tänav",,,,relation
 Vesioina,,,,way
-Vesipapi,,,,way
+"Vesipapi tänav",,,,relation
 "Vesiravila tänav",,,,relation
 Vesivärava,,,,way
 "Vesivärava tänav",,,,relation
@@ -1717,6 +1720,7 @@ Virbi,,,,way
 Virmalise,,,,way
 "Viru tänav",,,,relation
 "Viru väljak",,,,relation
+"Virumäe suveteater",,,,way
 "Virve tänav",,,,relation
 "Visase tänav",,,,relation
 Vismeistri,,,,way
@@ -1745,4 +1749,3 @@ Võsara,,,,way
 "Võtme tänav",,,,relation
 "Vuti tänav",,,,relation
 "Wismari tänav",,,,relation
-"kadaka tee",,,,way
