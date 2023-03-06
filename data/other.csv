@@ -299,7 +299,7 @@ Kaisla,,,,way
 Kaitse,,,,way
 Kaja,,,,way
 "Kajaka tänav",,,,relation
-"Kakumäe tee",,,,relation+way
+"Kakumäe tee",,,,relation
 Kaladi,,,,way
 "Kalamehe tee",,,,relation
 "Kalaranna promenaad",,,,way
@@ -465,13 +465,13 @@ Kõla,,,,way
 "Komandandi tee",,,,way
 Komeedi,,,,way
 "Kommunismiohvrite memoriaal",,,,way
+"Kompassi väljak",,,,relation
 Kõnnu,,,,way
 "Kontpuu tee",,,,way
 Koogu,,,,way
 Kooli,,,,way
 Köömne,,,,way
 Koovitaja,,,,way
-Kopli,,,,way
 "Kopli tänav",,,,relation
 "Kopliranna tänav",,,,relation
 "Korese tänav",,,,relation
@@ -661,7 +661,7 @@ Lillevälja,,,,way
 Lina,,,,way
 Linda,,,,way
 "Lindakivi puiestee",,,,relation
-"Linnamäe tee",,,,relation
+"Linnamäe tee",,,,relation+way
 "Linnu tee",,,,relation+way
 "Linnuse tee",,,,relation+way
 Lobjaka,,,,way
@@ -874,6 +874,7 @@ Naeri,,,,way
 "Nata tänav",,,,relation
 "Neeme põik",,,,relation
 "Neeme tänav",,,,relation
+Neemiku,,,,way
 "Neemiku tänav",,,,relation
 "Neiuvaiba tee",,,,way
 "Nelgi tänav",,,,relation
@@ -1042,7 +1043,6 @@ Piiri,,,,way
 Piiritsa,,,,way
 Piiskopi,,,,way
 Pikakase,,,,way
-Pikaliiva,,,,way
 "Pikaliiva tänav",,,,relation
 "Pikk jalg",,,,relation
 "Pikk tänav",,,,relation
@@ -1070,6 +1070,7 @@ Plaasi,,,,way
 "Plasti tänav",,,,relation
 Põdra,,,,way
 "Põdrakanepi tee",,,,relation
+"Põhja pst",,,,way
 "Põhja puiestee",,,,relation
 Põhjakaare,,,,way
 Pohla,,,,way
@@ -1305,7 +1306,6 @@ Silmu,,,,way
 Sinika,,,,way
 "Siniladva tee",,,,way
 Sinilille,,,,way
-Sinimäe,,,,way
 "Sinimäe tänav",,,,relation
 Sininuku,,,,way
 "Sinirebase tänav",,,,relation
