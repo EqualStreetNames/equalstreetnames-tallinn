@@ -504,7 +504,7 @@ Kriibi,,,,way
 "Kristiina tänav",,,,relation
 Krookuse,,,,way
 "Krooni tänav",,,,relation
-Kruiisipromenaad,,,,relation+way
+Kruiisipromenaad,,,,way
 Kruusa,,,,way
 "Kruusaranna tee",,,,relation
 Krüüsli,,,,way
@@ -1152,6 +1152,7 @@ Ränduri,,,,way
 "Randvere tee",,,,relation+way
 Rangu,,,,way
 "Ranna tee",,,,relation
+"Rännaku pst",,,,way
 "Rännaku puiestee",,,,relation
 "Rannamäe tee",,,,relation
 "Rannamõisa tee",,,,relation+way
@@ -1433,7 +1434,6 @@ Tervise,,,,way
 "Tihniku tänav",,,,relation
 "Tiigi tänav",,,,relation
 Tiiru,,,,way
-Tiiu,,,,way
 "Tiiu tänav",,,,relation
 "Tiiva tänav",,,,relation
 Tikutaja,,,,way
@@ -1656,6 +1656,7 @@ Vati,,,,way
 Vedru,,,,way
 "Veduri tänav",,,,relation
 Vee,,,,way
+Veepiisa,,,,way
 "Veerenni põik",,,,relation
 "Veerenni tänav",,,,relation
 "Veerenni tunnel",,,,way

@@ -14,7 +14,7 @@ name,source,gender,wikidata,type
 "Carl Robert Jakobsoni tänav",wikidata,M,Q725191,relation
 "Eduard Bornhöhe tee",wikidata,M,Q717712,way
 "Eduard Viiralti tänav",wikidata,M,Q1290386,relation
-"Eduard Vilde tee",wikidata,M,Q464207,relation
+"Eduard Vilde tee",wikidata,M,Q464207,relation+way
 "Ernst Särgava allee",wikidata,M,Q16408491,way
 "Falgi tee",wikidata,M,Q2711924,way
 "Ferdinand Johann Wiedemanni tänav",wikidata,M,Q705843,relation
@@ -32,7 +32,7 @@ name,source,gender,wikidata,type
 "Johannes Kappeli",wikidata,M,Q122598,way
 "Juhan Kunderi tänav",wikidata,M,Q12365486,relation
 "Juhan Smuuli tee",wikidata,M,Q1711542,relation+way
-"Juhan Sütiste tee",wikidata,M,Q1649161,relation
+"Juhan Sütiste tee",wikidata,M,Q1649161,relation+way
 "Jüri Vilmsi tänav",wikidata,M,Q1717908,relation
 "Karl August Hermanni tänav",wikidata,M,Q721139,relation
 "Kentmanni tänav",wikidata,M,Q12379257,relation
