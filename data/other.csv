@@ -486,7 +486,6 @@ Kõrre,,,,way
 "Kose põik",,,,way
 "Kose tee",,,,relation+way
 "Kosemetsa tänav",,,,relation
-Kosetee,,,,way
 "Koskla tänav",,,,relation
 Kotermaa,,,,way
 Kotka,,,,way
@@ -1232,7 +1231,6 @@ Ruunaoja,,,,way
 Rüütli,,,,way
 Saadu,,,,way
 Saagi,,,,way
-Saani,,,,way
 Saare,,,,way
 "Saaremaa puiestee",,,,relation
 "Saarepiiga puiestee",,,,relation
@@ -1343,6 +1341,7 @@ Sooviku,,,,way
 Soovildiku,,,,way
 "Soovõha tee",,,,way
 "Sõpruse Puiestee",,,,way
+"Sõpruse pst",,,,way
 "Sõpruse puiestee",,,,relation
 "Sõstra tänav",,,,relation
 "Sõstramäe tänav",,,,relation
@@ -1415,6 +1414,7 @@ Tasandi,,,,way
 "Tasuja pst",,,,way
 Tatari,,,,way
 "Tatari tänav",,,,relation
+Teaduspargi,,,,way
 "Teaduspargi tänav",,,,relation
 "Teatri väljak",,,,relation+way
 Tedre,,,,way
@@ -1756,3 +1756,4 @@ Võsara,,,,way
 "Võtme tänav",,,,relation
 "Vuti tänav",,,,relation
 "Wismari tänav",,,,relation
+Эстония,,,,way
