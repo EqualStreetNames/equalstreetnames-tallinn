@@ -72,6 +72,7 @@ Amburi,,,,way
 "Andrekse tee",,,,way
 "Angerja tänav",,,,relation
 Angerpisti,,,,way
+Angervaksa,,,,way
 "Ankru tänav",,,,relation
 "Anni tänav",,,,relation
 Ao,,,,way
@@ -119,6 +120,7 @@ Endla,,,,way
 Energia,,,,way
 "Erika tänav",,,,relation
 "Esku tänav",,,,relation
+Estonia,,,,way
 "Estonia puiestee",,,,relation
 Filmi,,,,way
 "Filtri tee",,,,relation
@@ -185,6 +187,7 @@ Hiie,,,,way
 "Hiie põik",,,,way
 "Hiiela tee",,,,way
 Hiiepuu,,,,way
+Hiiu,,,,way
 "Hiiu tänav",,,,relation
 "Hiiu-Maleva tänav",,,,relation
 "Hiiu-Suurtüki tänav",,,,relation
@@ -315,6 +318,7 @@ Kalevipoja,,,,way
 Kaljase,,,,way
 Kalju,,,,way
 Kallaste,,,,way
+Kalma,,,,way
 "Kalmistu tee",,,,way
 "Kalmuse tee",,,,relation
 "Kaluri tänav",,,,relation
@@ -601,6 +605,7 @@ Laulu,,,,way
 "Laulu tänav",,,,relation
 Laulupeo,,,,way
 "Laulupeo tänav",,,,relation
+"Laulupidude allee",,,,way
 "Lauri tee",,,,relation
 Laurimaa,,,,way
 Lauripere,,,,way
@@ -1558,6 +1563,7 @@ Uus-Tatari,,,,way
 Uus-Volta,,,,way
 Uuslinna,,,,way
 "Uustalu tänav",,,,relation
+Vaablase,,,,way
 "Vaablase tänav",,,,relation
 Vaagi,,,,way
 Vaalu,,,,way
@@ -1756,4 +1762,3 @@ Võsara,,,,way
 "Võtme tänav",,,,relation
 "Vuti tänav",,,,relation
 "Wismari tänav",,,,relation
-Эстония,,,,way
