@@ -635,6 +635,7 @@ Lemle,,,,way
 "Lemmiku põik",,,,relation
 "Lemmiku tänav",,,,relation
 "Lennujaama tee",,,,relation+way
+"Lennujaama väljak",,,,way
 "Lennuki tänav",,,,relation
 "Lennusadama tänav",,,,relation
 Lennuse,,,,way
@@ -674,7 +675,6 @@ Linda,,,,way
 Lobjaka,,,,way
 "Lodjapuu tee",,,,relation+way
 "Lodumetsa tee",,,,relation
-Logi,,,,way
 "Logi tänav",,,,relation
 Lõhe,,,,way
 "Lõhmuse tee",,,,way
