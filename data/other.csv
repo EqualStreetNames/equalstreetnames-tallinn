@@ -8,6 +8,7 @@ Kedriku,wikidata,,Q857997,way
 Kirilase,wikidata,,Q865624,way
 Kuldtiiva,wikidata,,Q258719,way
 Lumiku,wikidata,,Q1064168,way
+"Maakri tänav",wikidata,,Q13235160,relation
 Merikanni,wikidata,,Q21036,way
 Öölase,wikidata,,Q459180,way
 "Päevakoera tänav",wikidata,,Q776603,relation
@@ -124,6 +125,7 @@ Estonia,,,,way
 "Fahle Galeriitänav",,,,way
 Filmi,,,,way
 "Filtri tee",,,,relation
+"Filtri tunnel",,,,way
 Forelli,,,,way
 "Forelli tänav",,,,relation
 "Gaasi tänav",,,,relation
@@ -262,6 +264,7 @@ Joone,,,,way
 "Jugapuu tee",,,,way
 Juhkentali,,,,way
 "Juhkentali tänav",,,,relation
+"Juhkentali tunnel",,,,way
 "Juhtme tänav",,,,relation
 "Jumika tee",,,,relation
 "Jürilille tee",,,,way
@@ -317,6 +320,7 @@ Kalevi,,,,way
 Kalevipoja,,,,way
 Kaljase,,,,way
 Kalju,,,,way
+"Kalju põik",,,,way
 Kallaste,,,,way
 Kalma,,,,way
 "Kalmistu tee",,,,way
@@ -380,6 +384,7 @@ Katleri,,,,way
 Kauba,,,,way
 Kaubamaja,,,,way
 "Kaubamaja tänav",,,,relation
+"Kaubamaja tunnel",,,,way
 Kauge,,,,way
 "Kauka tänav",,,,relation
 Kauna,,,,way
@@ -436,6 +441,7 @@ Kitsas,,,,way
 Kiuru,,,,way
 Kivi,,,,way
 "Kiviaia tee",,,,relation+way
+Kivikülvi,,,,way
 "Kivila tänav",,,,relation
 Kivimäe,,,,way
 "Kivimäe tänav",,,,relation
@@ -482,7 +488,6 @@ Koovitaja,,,,way
 "Kopliranna tänav",,,,relation
 "Korese tänav",,,,relation
 "Kõrge tänav",,,,relation
-Kõrgepinge,,,,way
 "Kõrgepinge tänav",,,,relation
 Korgi,,,,way
 "Kõrkja tee",,,,relation
@@ -590,6 +595,7 @@ Laki,,,,way
 "Laki põik",,,,way
 "Laki tänav",,,,relation
 "Lambi tänav",,,,relation
+Lammi,,,,way
 "Lammi tänav",,,,relation
 "Landi tänav",,,,relation
 Laose,,,,way
@@ -656,6 +662,7 @@ Liinivahe,,,,way
 "Liiva tänav",,,,relation
 Liivalaia,,,,way
 "Liivalaia tänav",,,,relation
+"Liivalaia tunnel",,,,way
 Liivaluite,,,,way
 "Liivamäe tänav",,,,relation
 Liivametsa,,,,way
@@ -724,7 +731,6 @@ Lüli,,,,way
 "Lumikellukese tee",,,,way
 "Lummu tänav",,,,relation
 Luste,,,,way
-"Maakri tänav",,,,relation
 Maarjaheina,,,,way
 "Maarjaheina tänav",,,,relation
 "Maarjamäe tänav",,,,relation
@@ -855,6 +861,7 @@ Muraka,,,,way
 Muru,,,,way
 "Mustakivi tee",,,,relation
 "Mustakivi tee pikendus",,,,way
+"Mustakivi tunnel",,,,way
 "Mustamäe tee",,,,relation+way
 "Mustasõstra tänav",,,,relation
 Mustika,,,,way
@@ -936,6 +943,7 @@ Ojaveere,,,,way
 Okka,,,,way
 Oksa,,,,way
 Õle,,,,way
+Olerex,,,,relation
 "Olevi põik",,,,way
 "Olevi tänav",,,,relation
 Olevimägi,,,,relation
@@ -1025,7 +1033,6 @@ Pärja,,,,way
 Parve,,,,way
 "Patkuli trepp",,,,way
 "Paul Pinna",,,,way
-Pauna,,,,way
 Pebre,,,,way
 Pedaja,,,,way
 Peetri,,,,way
@@ -1070,6 +1077,7 @@ Pinu,,,,way
 "Pirita Terviserajad",,,,way
 "Pirita promenaad",,,,way
 "Pirita tee",,,,relation
+"Pirita terviserajad",,,,way
 "Pirni tänav",,,,relation
 Plaasi,,,,way
 "Planeedi tänav",,,,relation
@@ -1193,6 +1201,7 @@ Rehelepa,,,,way
 "Reisijate tänav",,,,relation
 Reketi,,,,way
 Remmelga,,,,way
+"Renniotsa tunnel",,,,way
 "Retke tee",,,,relation
 Riida,,,,way
 Riisika,,,,way
@@ -1271,7 +1280,6 @@ Sarapuu,,,,way
 "Särje tänav",,,,relation
 Särjesilma,,,,way
 "Sarra tänav",,,,relation
-Sarruse,,,,way
 Sarve,,,,way
 "Saturni tänav",,,,relation
 Saue,,,,way
@@ -1329,6 +1337,7 @@ Sitsi,,,,way
 Söe,,,,way
 "Söe põik",,,,way
 "Sõjakooli tänav",,,,relation
+"Sõjakooli tunnel",,,,way
 Sõle,,,,way
 "Sõle tänav",,,,relation
 Sõlme,,,,way
@@ -1392,11 +1401,13 @@ Tagala,,,,way
 "Tähe tänav",,,,relation
 "Tähesaju tee",,,,relation+way
 "Tähetorni tänav",,,,relation
+"Tähetorni tunnel",,,,way
 "Tähistaeva tänav",,,,relation
 "Taime tänav",,,,relation
 Tala,,,,way
 Talli,,,,way
 "Tallinn — Lagedi",,,,way
+"Tallinn — Rapla — Türi",,,,way
 Tallinna,,,,way
 "Tallinna ringtee",,,,way
 Taludevahe,,,,way
@@ -1461,6 +1472,7 @@ Tolli,,,,way
 "Tõllu tänav",,,,relation
 "Tolmuka tee",,,,relation
 "Tondi tänav",,,,relation
+"Tondi tunnel",,,,way
 Tondiraba,,,,way
 "Tondiraba tunnel",,,,way
 Tõnismägi,,,,relation+way
