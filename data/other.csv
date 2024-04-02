@@ -774,7 +774,7 @@ Malmi,,,,way
 Maneeži,,,,way
 "Mängu tänav",,,,relation
 "Männi tänav",,,,relation
-"Männiku tee",,,,relation+way
+"Männiku tee",,,,relation
 "Männiliiva tänav",,,,relation
 "Männimäe tee",,,,way
 "Männimetsa põik",,,,way
@@ -1004,6 +1004,7 @@ Pakase,,,,way
 "Palderjani tee",,,,relation
 "Paldiski maantee",,,,relation
 "Paldiski mnt",,,,way
+"Paldiski mte 157",,,,way
 Paljandi,,,,way
 "Paljassaare põik",,,,relation
 "Paljassaare tee",,,,relation+way
