@@ -1033,6 +1033,7 @@ Pesa,,,,way
 "Peterburi tee",,,,relation+way
 "Petrooleumi tänav",,,,relation
 "Pidu tänav",,,,relation
+Pihlaka,,,,way
 "Pihlaka tänav",,,,relation
 Pihlamarja,,,,way
 "Pihlametsa tee",,,,relation
@@ -1572,7 +1573,7 @@ Vaarika,,,,way
 "Vabaduse pst",,,,way
 "Vabaduse puiestee",,,,relation
 "Vabaduse väljak",,,,way
-"Vabaõhukooli tee",,,,relation
+"Vabaõhukooli tee",,,,relation+way
 "Vabaõhumuuseumi tee",,,,relation
 "Vabarna tee",,,,way
 Vabe,,,,way
