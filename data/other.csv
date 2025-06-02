@@ -103,6 +103,7 @@ Auli,,,,way
 Beetapromenaad,,,,way
 Bensiini,,,,way
 "Betooni tänav",,,,relation
+Boksid,,,,way
 "Börsi käik",,,,relation
 "Bremeni käik",,,,relation
 "Business Lounge",,,,way
@@ -270,7 +271,6 @@ Juhkentali,,,,way
 "Juhtme tänav",,,,relation
 "Jumika tee",,,,relation
 "Jürilille tee",,,,way
-Jussikalda,,,,way
 "Juuliuse plats",,,,way
 "Juurdeveo tänav",,,,relation
 "Kaabli tänav",,,,relation
@@ -347,6 +347,7 @@ Käopoja,,,,way
 "Karamelli tänav",,,,relation
 "Kärbi tänav",,,,relation
 "Kärestiku tänav",,,,relation
+Kari,,,,way
 "Kari tänav",,,,relation
 "Karjääri tee",,,,way
 "Karjamaa tänav",,,,relation
@@ -466,7 +467,7 @@ Koitmetsa,,,,way
 "Kõivu tee",,,,relation
 Kõla,,,,way
 "Kõla tänav",,,,relation
-"Kolde puiestee",,,,relation
+"Kolde puiestee",,,,relation+way
 "Koldrohu tee",,,,way
 "Kollane tänav",,,,relation
 "Kõlviku põik",,,,way
@@ -488,6 +489,7 @@ Koovitaja,,,,way
 Korgi,,,,way
 "Kõrkja tee",,,,relation
 Kõrre,,,,way
+"Kose kurv",,,,way
 "Kose põik",,,,way
 "Kose tee",,,,relation+way
 "Kosemetsa tänav",,,,relation
@@ -682,6 +684,7 @@ Lõhe,,,,way
 Loigu,,,,way
 "Loigu tänav",,,,relation
 Lõikuse,,,,way
+Lõime,,,,way
 "Lõime tänav",,,,relation
 Lõimise,,,,way
 Loite,,,,way
@@ -727,6 +730,7 @@ Luste,,,,way
 "Maarjaheina tänav",,,,relation
 "Maarjamäe tänav",,,,relation
 Maasika,,,,way
+Madala,,,,way
 "Madala tänav",,,,relation
 Madalmaa,,,,way
 "Madara tänav",,,,relation
@@ -1063,6 +1067,7 @@ Pilve,,,,way
 Pilvetee,,,,way
 Pilviku,,,,way
 Pinu,,,,way
+"Pirita kurv",,,,way
 "Pirita promenaad",,,,way
 "Pirita tee",,,,relation
 "Pirita terviserajad",,,,way
@@ -1712,7 +1717,6 @@ Viisi,,,,way
 "Vile tänav",,,,relation
 Vilisuu,,,,way
 "Viljandi maantee",,,,relation
-"Viljandi mnt",,,,way
 "Villardi tänav",,,,relation
 "Villkäpa tänav",,,,relation
 Villpea,,,,way
@@ -1756,3 +1760,4 @@ Võsara,,,,way
 "Võtme tänav",,,,relation
 "Vuti tänav",,,,relation
 "Wismari tänav",,,,relation
+kari,,,,way
