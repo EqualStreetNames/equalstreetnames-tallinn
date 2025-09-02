@@ -26,7 +26,6 @@ Vaksiku,wikidata,,Q45559,way
 "4. liin",,,,relation
 "5. liin",,,,way
 "A. H. Tammsaare",,,,relation
-"A.H. Tammsaare",,,,way
 Aarde,,,,way
 Ääre,,,,way
 "Aasa tänav",,,,relation
@@ -483,6 +482,7 @@ Koogu,,,,way
 Kooli,,,,way
 Köömne,,,,way
 Koovitaja,,,,way
+Kopli,,,,way
 "Kopli tänav",,,,relation
 "Kopliranna tänav",,,,relation
 "Korese tänav",,,,relation
@@ -587,6 +587,7 @@ Laeva,,,,way
 Lageloo,,,,way
 "Lagle pst",,,,way
 Lahe,,,,way
+Lahepea,,,,way
 "Lahepea tänav",,,,relation
 "Lai tänav",,,,relation
 "Laiaküla tee",,,,way
@@ -1413,7 +1414,6 @@ Tambeti,,,,way
 "Tammepärja tänav",,,,relation
 Tammetõru,,,,way
 Tammiku,,,,way
-"Tammsaare tee",,,,way
 Tanuma,,,,way
 Tapri,,,,way
 "Tare tänav",,,,relation
@@ -1529,7 +1529,6 @@ Tuukri,,,,way
 "Tuukri põik",,,,way
 "Tuukri tänav",,,,relation
 "Tuule tee",,,,relation
-Tuulemaa,,,,way
 "Tuulemaa tänav",,,,relation
 Tuulemäe,,,,way
 Tuulemurru,,,,way
