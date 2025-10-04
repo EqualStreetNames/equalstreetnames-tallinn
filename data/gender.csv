@@ -1,4 +1,27 @@
 name,source,gender,wikidata,type
+"Äigrumäe tee",wikidata,-,Q2192129,relation+way
+"Juhan Kunderi põik",wikidata,-,Q12365487,relation
+"Kalevipoja põik",wikidata,-,Q3812585,relation
+Kannustiiva,wikidata,-,Q922808,way
+"Katariina käik",wikidata,-,Q3860574,relation
+Kedriku,wikidata,-,Q857997,way
+Kirilase,wikidata,-,Q865624,way
+Kuldtiiva,wikidata,-,Q258719,way
+Lumiku,wikidata,-,Q1064168,way
+"Maakri tänav",wikidata,-,Q13235160,relation
+Merikanni,wikidata,-,Q21036,way
+Öölase,wikidata,-,Q459180,way
+"Päevakoera tänav",wikidata,-,Q776603,relation
+"Piksepeni tänav",wikidata,-,Q2934200,relation
+Rapla,wikidata,-,Q215971,way
+Sirptiiva,wikidata,-,Q5306943,way
+Sügislase,wikidata,-,Q6521398,way
+Suru,wikidata,-,Q157683,way
+Taevastiiva,wikidata,-,Q1084480,way
+Täpiku,wikidata,-,Q286622,way
+"Udeselja tänav",wikidata,-,Q7706097,relation
+Uneliblika,wikidata,-,Q1544777,way
+Vaksiku,wikidata,-,Q45559,way
 "Lydia Koidula tänav",wikidata,F,Q237056,relation
 "Miina Härma tänav",wikidata,F,Q438792,relation
 "A. H. Tammsaare tee",wikidata,M,Q353637,relation+way
