@@ -1038,7 +1038,6 @@ Pilve,,,,way
 Pilvetee,,,,way
 Pilviku,,,,way
 Pinu,,,,way
-"Pirita kurv",,,,way
 "Pirita promenaad",,,,way
 "Pirita tee",,,,relation
 "Pirita terviserajad",,,,way
@@ -1194,6 +1193,7 @@ Roosi,,,,way
 "Roosikrantsi tänav",,,,relation
 "Roostiku tänav",,,,relation
 "Roseni tänav",,,,relation
+Rotermanni,,,,way
 "Rotermanni tänav",,,,relation
 "Rotermanni väljak",,,,relation
 "Rõugu tänav",,,,relation
@@ -1595,6 +1595,7 @@ Välja,,,,way
 Vambola,,,,way
 "Vana turg",,,,way
 "Vana-Kalamaja tänav",,,,relation
+"Vana-Kalamaja väljak",,,,way
 Vana-Keldrimäe,,,,way
 Vana-Kuuli,,,,way
 "Vana-Kuuli tänav",,,,relation
