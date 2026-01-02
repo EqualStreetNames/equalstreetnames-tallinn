@@ -278,6 +278,7 @@ Kahlu,,,,way
 "Kahva tänav",,,,relation
 "Kai tänav",,,,relation
 "Käia tänav",,,,relation
+"Kaido Singel",,,,way
 "Kailu tee",,,,way
 Kaisla,,,,way
 Kaitse,,,,way
@@ -530,6 +531,7 @@ Kuremarja,,,,way
 "Kurikneeme tee",,,,way
 "Kuristiku tänav",,,,relation
 Kurmu,,,,way
+"Kurna — Tuhala",,,,way
 "Kurni põik",,,,way
 "Kurni tänav",,,,relation
 "Kursi tänav",,,,relation
@@ -1096,6 +1098,7 @@ Puraviku,,,,way
 "Purde tänav",,,,relation
 "Purje tänav",,,,relation
 Püssirohu,,,,way
+Putukaväil,,,,way
 Püü,,,,way
 "Puu tänav",,,,relation
 Puusepa,,,,way
@@ -1154,7 +1157,6 @@ Raua,,,,way
 "Rävala puiestee",,,,relation
 "Ravi tänav",,,,relation
 Ravila,,,,way
-"Reakoja plats",,,,way
 "Rebase tänav",,,,relation
 "Rebasesaba tee",,,,way
 "Regati pst",,,,way
