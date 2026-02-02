@@ -82,6 +82,7 @@ Bensiini,,,,way
 "Börsi käik",,,,relation
 "Bremeni käik",,,,relation
 "Business Lounge",,,,way
+"Construction of Endla tunnels",,,,way
 "Dunkri tänav",,,,relation
 Edela,,,,way
 Edu,,,,way
@@ -609,7 +610,6 @@ Lehtpuu,,,,way
 "Lehtri tänav",,,,relation
 Leigeri,,,,way
 Leina,,,,way
-Leiva,,,,way
 "Lelle tänav",,,,relation
 Lemle,,,,way
 "Lemmiku põik",,,,relation
@@ -878,7 +878,7 @@ Nõeliku,,,,way
 Nõgikikka,,,,way
 "Nõlva tänav",,,,relation
 "Nõmme põik",,,,way
-"Nõmme tee",,,,relation
+"Nõmme tee",,,,relation+way
 "Nõmme-Kase tänav",,,,relation
 "Nõo tee",,,,way
 "Nooda tee",,,,relation
