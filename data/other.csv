@@ -687,7 +687,6 @@ Lossihoov,,,,relation
 "Lõuka tänav",,,,relation
 "Lõuna tänav",,,,relation
 "Lõvi tänav",,,,relation
-Lubja,,,,way
 "Lubja tänav",,,,relation
 "Luha tänav",,,,relation
 Lühike,,,,way
@@ -1156,6 +1155,7 @@ Raua,,,,way
 "Raudkivi tee",,,,way
 "Raudosja tee",,,,way
 "Raudtee tänav",,,,relation
+"Rävala pst",,,,way
 "Rävala puiestee",,,,relation
 "Ravi tänav",,,,relation
 Ravila,,,,way
