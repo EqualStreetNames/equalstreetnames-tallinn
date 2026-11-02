@@ -194,6 +194,7 @@ Hundipea,,,,way
 "Ida tee",,,,relation
 Idakaare,,,,way
 "Idakaare põik",,,,way
+Iili,,,,way
 "Iirise tänav",,,,relation
 Ilmarise,,,,way
 "Ilmarise terviserada",,,,way
@@ -302,6 +303,7 @@ Kalju,,,,way
 "Kalju põik",,,,way
 Kallaste,,,,way
 Kalma,,,,way
+"Kalma plats",,,,way
 "Kalmistu tee",,,,relation
 "Kalmuse tee",,,,relation
 "Kaluri tänav",,,,relation
@@ -545,6 +547,7 @@ Kuukivi,,,,way
 Kuunari,,,,way
 "Kuuse tänav",,,,relation
 "Kuusenõmme tee",,,,relation
+"Kuusiku singel",,,,way
 "Kuusiku tee",,,,relation
 Kvartsi,,,,way
 "Laagna tee",,,,relation
@@ -1604,7 +1607,6 @@ Välja,,,,way
 Vambola,,,,way
 "Vana turg",,,,way
 "Vana-Kalamaja tänav",,,,relation
-"Vana-Kalamaja väljak",,,,way
 Vana-Keldrimäe,,,,way
 Vana-Kuuli,,,,way
 "Vana-Kuuli tänav",,,,relation
